@@ -1,0 +1,1 @@
+ 禁忌 搜索蜂群 蜂群算法 蜂群算法 artificial bee colony algorithm C 简单 智能算法 蜜蜂 之间 相互合作 寻找最优 禁忌 搜索算法 tabu search algorithm TS 局部邻域 搜索算法 全局寻优 C 搜索 效率 全局寻优 TS C 增加 禁忌 搜索蜂群 蜂群算法 artificial bee colony algorithm based tabu search TSC 常用标准 测试函数 TSC 算法 验证 应用于图像 边缘检测 TSC 较好 优化效果 寻优 精度 收敛速度 边缘检测 

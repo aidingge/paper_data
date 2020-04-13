@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 涂祥;杨琦峰;宋平;郑明辉;沈济南;杨兴忠;
+AD 武汉理工大学经济学院;湖北民族学院信息工程学院;
+TP 一种基于Logistic和RONSA的信用评分模型
+JF 四川大学学报(工程科学版)
+YR 2014
+IS 06
+OP 19-24
+K1 信用评分;Logistic回归;人工智能
+AB 为了探讨否定选择算法用于信用评分的可行性及其效果,提出一种R集优化否定选择算法(R-optimized negative selection algorithm,简称RONSA)作为信用评分模型的分类器算法,并运用Logistic回归分析提取影响客户信用的分类指标作为人工免疫机制的基因座,即在Logistic回归分析的基础上构建一个基于RONSA的信用评分模型:LR&RONSA Based模型。最后通过样本数据和ROC曲线对该信用评分模型与LR模型进行实证对比检验。结果表明,LR&RONSA Based模型具有更高的信用评分水平,可作为较理想的信用风险预测工具。
+SN 1009-3087
+CN 51-1596/T
+LA 中文;
+DS CNKI

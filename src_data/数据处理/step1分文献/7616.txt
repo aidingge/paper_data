@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2013年IEEE机器人和自动化国际会议(ICRA 2013)(英文)
+JF 智能系统学报
+YR 2012
+IS 04
+OP 376
+K1 ICRA 2013;IEEE;机器人;人工智能;英文;
+AB <正>The 2013 IEEE International Conference on Robotics and Automation(ICRA 2013)will be held in Karlsruhe,Germanyon May 6—10,2013.The conference theme is"Anthropomatics-Technologies for Humans",highlighting the paramount
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

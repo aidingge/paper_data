@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 科技动态
+JF 测控技术
+YR 2014
+IS 01
+OP 157-160
+K1 机器人;数控机床;以太网;串口设备;服务器;VTC;人工智能;ethernet网;局域网;无线联网;BPC;IVI;EtherCAT;系统级芯片;软件功能;
+AB <正>NI myRIO可让学生在一个学期内完成复杂的系统设计美国国家仪器有限公司近日发布了最新的教育型产品NI myRIO,扩大其在工程教育上的投入。NI myRIO与使用广泛的NI CompactRIO平台基于同样强大的技术,相比行业内其他同类产品,其体积更小,更适合学生使用。NI myRIO包括最新的Xilinx Zynq~(?)可编程系统级芯片(SoC)技术,其包含双核ARM Cortex-A9处理器与带有28000个逻辑单元的FPGA。借助NI
+SN 1000-8829
+CN 11-1764/TB
+LA 中文;
+DS CNKI

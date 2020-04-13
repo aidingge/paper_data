@@ -1,0 +1,1 @@
+ 计算机 视觉 视域 水稻叶片 叶绿素含量 数学建模 利用计算机 视觉 获取 水稻叶片 颜色指标 DGCI HvGRB GRBHv Diff BP网络 多元回归 模型 遗传算法 建立 叶绿素含量 SPAD 预测模型 叶片 SPAD 数学模拟 模型 数学 表达式 purelin tansig 建立 模型 叶绿素含量 SPAD 预测大田 大田实测

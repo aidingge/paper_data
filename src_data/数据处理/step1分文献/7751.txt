@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP Universal Robots公司发力中国市场
+JF 制造技术与机床
+YR 2012
+IS 11
+OP 4
+K1 机器人;创新;制造商;人工智能;Universal Robots;行业展会;中国市场;发力;
+AB <正>2012年9月14日,丹麦创新工业机器人制造商Universal Robots公司日前在北京宣布,将大力投资中国市场,拓展行业商机,并携手国内经销商积极参加各类行业展会及研讨会,全方位展示其屡获殊荣的"全球最创新机器人"——UR机器人。同时,Universal Robots公司也将着眼亚洲市场,加大在新加坡、泰国、马来西亚、印度尼西亚及日本等
+SN 1005-2402
+CN 11-3398/TH
+LA 中文;
+DS CNKI

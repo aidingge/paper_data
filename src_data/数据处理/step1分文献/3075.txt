@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Bo-hu LI;Bao-cun HOU;Wen-tao YU;Xiao-bing LU;Chun-wei YANG;
+AD The Second Academy of China Aerospace Science and Technology Corporation;Beijing Aerospace Intelligent Manufacturing Technology Development Co.,Ltd.;
+TP 人工智能在智能制造领域的应用研究（英文）
+JF Frontiers of Information Technology & Electronic Engineering
+YR 2017
+IS 01
+OP 86-97
+K1 人工智能;智能制造;智能制造系统
+AB 本文基于作者团队近年来在人工智能技术应用于制造领域的研究与实践,首先,简析了"互联网+人工智能"时代核心技术飞速发展正引发制造领域的模式、手段和生态系统的重大变革以及人工智能的新发展。接着基于人工智能技术与信息通信技术、制造技术及产品有关专业技术等融合,研究提出了智能制造新模式、新手段、新业态,智能制造系统体系架构和智能制造系统技术体系。进而,从智能制造的应用技术、产业和应用示范等角度,简述智能制造领域的国内外发展现状。最后,针对我国人工智能2.0在智能制造领域应用研究内容提出了建议。
+SN 2095-9184
+CN 33-1389/TP
+LA 英文;
+DS CNKI

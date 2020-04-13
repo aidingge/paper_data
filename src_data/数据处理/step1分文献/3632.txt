@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Gaetano C.LA DELFA;Salvatore MONTELEONE;Vincenzo CATANIA;Juan F.DE PAZ;Javier BAJO;
+AD Department of Electrical, Electronics and Computer Engineering (DIEEI), University of Catania;BISITE Research Group, Faculty of Science, University of Salamanca;Department of Artificial Intelligence, Polytechnic University of Madrid;
+TP 室内导航系统视觉标记性能分析（英文）
+JF Frontiers of Information Technology & Electronic Engineering
+YR 2016
+IS 08
+OP 730-741
+K1 室内定位;视觉标记;计算机视觉
+AB 智能手机大规模普及,人们对可穿戴设备和物联网兴趣倍增,以及定位服务指数级增长,使得室内定位导航成为近年来最重要的技术挑战之一。室内定位系统不仅在零售行业及定向推送广告行业有着巨大的市场,同时,它还可以部署在医院、机场、博物馆等公共建筑中,成为提升人们生活质量的基础性配置。甚至,在紧急情况下,是否部署室内定位系统,会造成生死之别。文献中已报道多种方法。近年来,得益于智能手机相机性能的大幅提升,无标记点和有标记点的计算机视觉方法得到开发。在之前的研究中,我们提出了一种利用低功耗蓝牙和嵌入地面的2D视觉标记系统进行室内定位导航的技术。在本文中,我们对3种可服务于实时应用的2D视觉标记(Vuforia,ArU co标记和April Tag)进行了定性的性能评估。本文重点研究了附于地表瓷砖的3种视觉标记在特定情况下的表现,提出了最优视觉标记的甄选原则,为我们提出的室内定位导航技术提供技术支撑。
+SN 2095-9184
+CN 33-1389/TP
+LA 英文;
+DS CNKI

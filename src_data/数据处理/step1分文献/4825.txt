@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 李腊梅;唐贤伦;张莉;陈龙;
+AD 重庆邮电大学工业物联网与网络化控制教育部重点实验室;
+TP 基于多智能体粒子群优化的移动机器人动态路径规划
+JF 四川大学学报(工程科学版)
+YR 2015
+IS S2
+OP 149-154+160
+K1 路径规划;动态环境;多Agent粒子群优化算法
+AB 为确保机器人在动态环境下无碰撞地到达目标位置,将多Agent粒子群优化(multi-agent particle swarm optimization,MAPSO)引入到粒子滤波(particle filter,PF)中,提出一种基于多Agent粒子群优化粒子滤波(multi-agent particle swarm optimized particle filter,MAPSOPF)的路径规划方法。通过多Agent系统的竞争、协作机制,调整MAPSOPF中粒子的提议分布,更新预估粒子的位置。与PSOPF(particle swarm optimized)算法相比,所提算法的迭代步数减少了50%~60%,计算时间复杂度降低了5%~50%。与改进的遗传算法(MGA)相比,MAPSOPF算法的计算时间复杂度降低了95%。3种算法中,MAPSOPF可近似得到最短的路径。实验结果表明提出的算法可有效应用于移动机器人动态路径规划。
+SN 1009-3087
+CN 51-1596/T
+LA 中文;
+DS CNKI

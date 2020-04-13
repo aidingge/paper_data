@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 刘彬;许立铭;刘宏胜;毛伟华;
+AD 上汽大众(新疆)汽车有限公司;
+TP Laserline激光发生器在KUKA机器人系统中的应用
+JF 上海交通大学学报
+YR 2016
+IS S1
+OP 14-18
+K1 KUKA机器人应用技术;Laserline激光发生器技术;发展趋势
+AB 介绍了Laserline激光发生器在KUKA机器人系统中的应用和特点,介绍了激光技术目前在国内诸多领域的应用及其发展趋势,介绍了KUKA机器人Workvisual软件在KUKA机器人网络配置中的应用,介绍了激光焊接设备的网络及安全组成.
+SN 1006-2467
+CN 31-1466/U
+LA 中文;
+DS CNKI

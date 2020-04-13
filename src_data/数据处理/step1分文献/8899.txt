@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 丁志强;王惠临;
+AD 中国科学技术信息研究所;
+TP 基于Glue Semantics和DRT的自然语言理解系统的设计与实现
+JF 现代图书情报技术
+YR 2010
+IS 04
+OP 46-52
+K1 自然语言理解;语义计算;句法分析;Glue Semantics;DRT
+AB 阐述自然语言理解的基本流程、相关技术,重点介绍Glue Semantics和DRT两个理论。设计开发基于Glue Semantics和DRT的语义计算系统平台,对平台的设计思想、具体实现和关键技术进行详细的介绍,并指出存在的一些问题。
+SN 1003-3513
+CN 11-2856/G2
+LA 中文;
+DS CNKI

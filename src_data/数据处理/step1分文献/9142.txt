@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 林华龙;林正春;
+AD 三水广播电视大学;华南理工大学计算机科学与工程学院;
+TP Agent研究进展
+JF 微计算机信息
+YR 2010
+IS 28
+OP 225-226+178
+K1 Agent;MAS;Agent组织
+AB Agent和MAS(Multi-Agent System)技术是目前分布式人工智能领域的研究热点,已被描述为设计构建分布式复杂工程应用系统的下一代模型。本文介绍了Agent的相关概念,多Agent系统(MAS)的形式语言方法。阐述了MAS理论的重点,难点,研究现状和未来的发展趋势。
+SN 1008-0570
+CN 14-1128/TP
+LA 中文;
+DS CNKI

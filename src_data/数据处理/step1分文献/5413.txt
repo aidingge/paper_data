@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Eris Chinellato;Angel P.Del Pobil;吴国良;滴石;
+AD 浙江越秀外国语学院;
+TP 任务驱动的当下认知——《机器人抓握的视觉神经研究》评介
+JF 当代语言学
+YR 2016
+IS 04
+OP 617-623
+K1 抓握;人脑;机器手;机器人;视觉特征提取;视觉神经;人工智能;任务驱动;
+AB <正>《机器人抓握的视觉神经研究》(The Visual Neuroscience of Robotic Grasping)一书还有个副标题:《通过背侧和腹侧通道集成来灵巧完成感知运动》(Achieving Sensorimotor Skills Through Dorsal-Ventral Stream Integration)。作者Eris Chinellato和Angel P.Del Pobil都是计算机专家。该书由Springer出
+SN 1007-8274
+CN 11-3879/H
+LA 中文;
+DS CNKI

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 刘芳华;
+AD 埃马克(中国)机械有限公司太仓分公司;
+TP 基于FANUC 32i A数控系统的外部测量设计
+JF 制造技术与机床
+YR 2017
+IS 05
+OP 162-165
+K1 Fanuc CNC;Fanuc机器人;PMCMacro;Executer;Fanuc Picture;Fanuc Profibus
+AB 文章以两台埃马克倒立式车削中心并集成埃马克自动化为例,采用FANUC 32i A数控系统,通过发那科系统强大的二次开发能力,实现了自动化加工、在线测量等先进的自动化功能,并完美的集成了马波斯测量系统,实现了轴类、盘类等零件的在线测量。
+SN 1005-2402
+CN 11-3398/TH
+LA 中文;
+DS CNKI

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 余亮;杨秋燕;赵楠;
+AD 西南大学计算机与信息科学学院;
+TP 模型驱动的教育大数据挖掘促进教与学——访美国犹他州立大学米米·雷克教授
+JF 开放教育研究
+YR 2018
+IS 01
+OP 4-9
+K1 教育大数据;数据挖掘;模型;学习分析
+AB 米米·雷克(Mimi Recker)是犹他州立大学教育与人力服务学院教授,兼任美国国家科学基金资助咨询委员会委员,还先后担任《学习科学杂志》(Journal of the Learning Sciences)、《教学媒体国际期刊》(International Journal of Instructional Media)、《教育技术研究与发展》(Educational Technology Research and Development)、《美国教育研究杂志》(American Education Research Journal)等编委,研究方向包括交互式学习环境的设计和评估,新媒体、信息和通信技术的教育应用以及创客教育等,目前致力于探索学校及公共图书馆创客发展和在线学习分析技术研究,曾主持八项美国国家科学基金项目,在《学习科学杂志》《教学科学》(Instructional Science)、《教育技术研究与发展》等期刊发表学术论文30多篇,2010年获美国教育传播与技术协会(AECT)杰出发展奖提名,2013年获犹他州立大学年度优秀导师称号。
+SN 1007-2179
+CN 31-1724/G4
+LA 中文;
+DS CNKI

@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 第一届中国模式识别与计算机视觉学术会议
+JF 太赫兹科学与电子信息学报
+YR 2018
+IS 03
+OP 583
+K1 计算机视觉;模式识别;学术会议;
+AB <正>PRCV 20182018年11月23-26日广州白云国际会议中心,广州征文通知:中国模式识别与计算机视觉学术会议(Chinese Conference on Pattern Recognition and Computer Vision)是由中国模式识别学术会议(CCPR)和中国计算机视觉大会(CCCV)合并而来,由中国人工智能学会(CAAI)、中国计
+SN 2095-4980
+CN 51-1746/TN
+LA 中文;
+DS CNKI

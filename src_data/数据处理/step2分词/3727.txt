@@ -1,0 +1,1 @@
+ 计算机视觉 用于 猪肉新鲜度 检测 颜色 优化选取 计算机视觉 为基础 神经网络 预测 猪肉新鲜度 合适 颜色 特征参数 神经网络 模型预测 预测准确性 文中 猪肉新鲜度 新鲜度等级 预测 颜色 特征参数 神经网络 优化选取 图像 提取表面 颜色 特征参数 组合成 RGBHIS RGBL rgbHIS rgbL HISL 特征参数 组合BP propagation BP SVM support vector machine SVM 神经网络 构造新鲜度 新鲜度等级 预测模型 SVM BP 平均 预测 准确率分别为 rgbHIS 特征参数 组合BP SVM 预测 模型预测 准确率分别为 提取表面 均值 颜色 特征向量 SVM 神经网络 构造新鲜度 预测模型

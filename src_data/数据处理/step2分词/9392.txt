@@ -1,0 +1,1 @@
+ 机器人视觉 定位 路口场景 识别方法 室外巡逻 机器人视觉 定位问题 尺度特性 变换 scale invariant featuretransform SIFT 颜色 路口场景 识别方法 提取 路口场景 图像 SIFT 颜色 HSI 颜色 空间 颜色 直方图 KD Bhattacharyya 距离 匹配 最终 决策公式 路口场景 识别 SIFT 算法 场景 匹配 速度 场景 图库阈值 分割预处理 环境 光照变化 变化动态 动态干扰 旋转 较强 鲁棒性 并能 很好 识别

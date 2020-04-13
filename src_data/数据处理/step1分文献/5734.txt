@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 邹丹;李晓楠;杨浩敏;
+AD 中国兵器工业第二〇八研究所;
+TP 军用机器人的研究和应用
+JF 科技导报
+YR 2015
+IS 21
+OP 54-58
+K1 military robots;application;autonomy;flexibility;reliability
+AB 未来战争中军用机器人将发挥越来越重要的作用。本文介绍近年来各国在军用机器人领域的发展思路,以及推出的先进军用机器人和技术,分析国内外军事机器人的发展特点和趋势。提出中国未来军用机器人的发展应以实战应用为出发点,明确发展方向,推进专用武器的研发。
+SN 1000-7857
+CN 11-1421/N
+LA 中文;
+DS CNKI

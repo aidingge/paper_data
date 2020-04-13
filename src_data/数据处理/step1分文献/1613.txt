@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 韩山杰;谈世哲;
+AD 中国海洋大学信息科学与工程学院;
+TP 基于TensorFlow进行股票预测的深度学习模型的设计与实现
+JF 计算机应用与软件
+YR 2018
+IS 06
+OP 267-271+291
+K1 TensorFlow;人工智能;数据分析;MLP;股价预测
+AB 基于谷歌人工智能学习系统TensorFlow,构建多层感知器MLP(Multi-layer Perceptron)神经网络模型,用于预测每日收盘股价。将苹果公司的每日开盘股价作为数据集输入到神经网络,收盘价格作为神经网络学习的样本,并在训练过程中不断调整权值和阈值及网络结构,最终得到具有较高预测精度的神经网络模型。并就股价预测问题将TensorFlow与传统BP(Back Propagation)神经网络进行性能对比:(1)TensorFlow所构建的神经网络的均方误差RMSE(Root Mean Square Error)=0.624 5,而BP神经网络的RMSE=0.894 2,显示出TensorFlow具有更好的预测准确度;(2)同样的学习样本数量,TensorFlow的预测耗时=1.221 s而BP神经网络的预测耗时=2.483 s,TensorFlow在分析效率及收敛速度上更有优势;(3)TensorFlow具有更友好的编程接口支持。证明了TensorFlow具有加快神经网络建模以及编程速度,提高数据分析效率的作用。通过对TensorFlow的开发流程的介绍,为进一步使用TensorFlow构建复杂的神经网络并进行数据分析提供了依据。
+SN 1000-386X
+CN 31-1260/TP
+LA 中文;
+DS CNKI

@@ -1,0 +1,1 @@
+ 主语谓语 谓语宾语 三元组 知识发现 发现诱导 诱导干细胞 主语谓语 谓语宾语 SubjectPredicationObject SPO三元组 生物医学 知识发现 框架 实施 流程 UMLS 语料库 SemRep Rep工具 生物医药 文献 抽取 SPO三元组 知识 自定义 词表 清洗 规则 SPO 清洗 筛选 再次 Net Miner 绘制 Subject Object 中心节点 Predication 语义 网络图 专家解读 知识发现 发现诱导 诱导干细胞 实证 结果显示 SPO三元组 细粒度 揭示 科技 文献 知识 内容 SPO 语义 网络 直观 知识发现 框架 兼容

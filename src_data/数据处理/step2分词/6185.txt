@@ -1,0 +1,1 @@
+ Logistic RONSA 信用评分 评分模型 否定算法 用于 信用评分 可行性效果 效果优化 否定算法 Roptimized negative selection algorithm 简称 RONSA 信用评分 评分模型 分类器 算法 Logistic 回归 提取客户 信用 分类指标 人工免疫 机制基因座 Logistic 回归 RONSA 信用评分 评分模型 LRRONSA Based 模型 样本数据 ROC曲线 信用评分 评分模型 LR 模型 实证检验 LRRONSA Based 模型 更高 信用评分 水平 较理想 信用风险

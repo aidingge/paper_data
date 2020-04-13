@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 陶剑文;王士同;
+AD 江南大学数字媒体学院;浙江工商职业技术学院电子与信息工程学院;
+TP 核分布一致局部领域适应学习
+JF 自动化学报
+YR 2013
+IS 08
+OP 1295-1309
+K1 领域适应学习;核分布一致;局部学习;模式分类;最大平均差
+AB 针对领域适应学习(Domain adaptation learning,DAL)问题,提出一种核分布一致局部领域适应学习机(Kernel distribution consistency based local domaina daptation classifier,KDC-LDAC),在某个通用再生核Hilbert空间(Universally reproduced kernel Hilbert space,URKHS),基于结构风险最小化模型,KDC-LDAC首先学习一个核分布一致正则化支持向量机(Support vector machine,SVM),对目标数据进行初始划分;然后,基于核局部学习思想,对目标数据类别信息进行局部回归重构;最后,利用学习获得的类别信息,在目标领域训练学习一个适于目标判别的分类器.人造和实际数据集实验结果显示,所提方法具有优化或可比较的领域适应学习性能.
+SN 0254-4156
+CN 11-2109/TP
+LA 中文;
+DS CNKI

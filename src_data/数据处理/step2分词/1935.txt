@@ -1,0 +1,1 @@
+ 自主 机器人 迭代 定位 算法 迭代 算法 Iterative closest point ICP 程度 较好 效果 算法 收敛 依赖于输入 初始值局部 局部最优 正态分布 变换 Normal distribution transform NDT 算法 精度 较高 扫描数量 数量较多 长距离 导航中会 中会导致 导致较大 转角 偏差 滤波 ICP 自主 定位 FICP 算法 激光扫描 匹配 误差 模型滤波器 匹配 噪声加快 ICP 算法 收敛 速度 推导 滤波 匹配 点位 更新 算法 全局 定位精度 试验 相对于 ICP 算法 NDT 算法 FICP 算法 较好

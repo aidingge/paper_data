@@ -1,0 +1,1 @@
+ 用于 CBR 推理机 案例学习 算法 案例学习 CBR casebased reasoning 推理机 重要环节 案例 多样性依赖性 依赖性导致 CBR 案例 自动生成 困难 seq sequencetosequence 模型 用于 案例学习 seq 模型 自动生成 案例 引入 attention 机制 seq 模型 生成 案例 效果语义 latent semantic analysis LSA网络 语料库 筛选 过滤 语料库 对模型训练 三元组 评估 生成 案例 评估 存储 CBR 推理机 自主 学习 最终 案例学习 智能机器人 验证 测试可行性 可行性机器人 机器人智能性 

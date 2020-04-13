@@ -1,0 +1,1 @@
+ 计算机视觉 岱衢大黄鱼 选育群体 外形 模式识别 计算机视觉 测定 岱衢大黄鱼 F 选育群体 形态参数 成分 principal component analysis PCA 连续 投影算法 successive projections algorithm SPA 形态参数 特征提取 PCA变换 PCA SPA 变量 集为 输入 建立岱衢 岱衢大黄鱼 F 选育群体 稀疏 识别 模型 PCA SPA 特征提取 全长体长 全长 全长体长 高是 岱衢大黄鱼 F 选育群体 之间 形态 差异 变量 稀疏 模型 识别 变量 岱衢大黄鱼 F 选育群体 样本较好 识别 平均 识别准确率 PCA变换 岱衢大黄鱼 F 识别准确率 最优 建立岱衢 岱衢大黄鱼 外形 指标 外形

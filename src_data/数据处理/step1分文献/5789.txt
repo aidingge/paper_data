@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2014欧洲计算机视觉会议(英文)
+JF 智能系统学报
+YR 2014
+IS 01
+OP 82
+K1 计算机视觉;机器视觉;人工智能;Vision;会议;英文;欧洲;
+AB <正>The European Conference on Computer Vision is one of the top conferences for researchers in this field and is held biennially in alternation with the International Conference on Computer Vision.It was first held in 1990 in Antibes(France)with subsequent conferences in Santa Margherita Ligure(Italy)in 1992,Stockholm(Sweden)in 1994,Cambridge(UK)in 1996,Freiburg(Germany)in 1998,Dublin(Ireland)in 2000,Copenhagen(Denmark)in
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

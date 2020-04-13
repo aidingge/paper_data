@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Yue-ting ZHUANG;Fei WU;Chun CHEN;Yun-he PAN;
+AD College of Computer Science and Technology,Zhejiang University;
+TP 挑战与希望:AI 2.0时代从大数据到知识（英文）
+JF Frontiers of Information Technology & Electronic Engineering
+YR 2017
+IS 01
+OP 3-15
+K1 深度推理;知识库扩充;强人工智能;大数据;跨媒体
+AB 本文对大数据时代人工智能领域近期出现的若干理论和技术进展进行了综述。我们认为,将数据驱动机器学习方法与人类的常识先验与隐式直觉有效结合起来,可实现可解释、更鲁棒和更通用的人工智能。AI 2.0时代大数据人工智能具体表现为:从浅层计算到深度神经推理;从单纯依赖于数据驱动的模型到数据驱动与知识引导相结合学习;从领域任务驱动智能到更为通用条件下的强人工智能(从经验中学习)。下一代人工智能(AI 2.0)将改变计算本身,将大数据转变为知识以支持人类社会作出更好决策。
+SN 2095-9184
+CN 33-1389/TP
+LA 英文;
+DS CNKI

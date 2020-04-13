@@ -1,0 +1,1 @@
+ DeviceNet 机器人 焊机 通讯模块 焊接 机器人 焊机 机器人 控制器 机器人 焊机 控制 安装 机器人 手臂焊枪 焊枪ARM ARM控制器 LPC 机器人 焊机 之间 通讯 软件形式 形式仅限 DeviceNet 从站 CAN主站 DeviceNet 从站 解码 机器人 接收 解码 CPU CAN 接口 发送给 焊机 CAN主站 旨在 焊机 发送指令 DeviceNet B 机器人 很好 CAN 焊机 通讯 通讯模块 机器人 DeviceNet 很短时间 时间传送 焊机 CAN 尽快 发送给

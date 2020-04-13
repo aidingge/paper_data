@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2015年IEEE国际计算机视觉大会（英文）
+JF 智能系统学报
+YR 2015
+IS 03
+OP 375
+K1 计算机视觉;机器视觉;人工智能;IEEE;Vision;英文;
+AB <正>13-16 December,2015,Santiago,Chile ICCV is the premier international Computer Vision event comprising the main ICCV conference and several co-located workshops and short courses.With its high quality and low cost,it provides an exceptional value for students,academics and industry researchers.ICCV 2015 is seen as a special conference that will cover the topics of Electronics,Electronics,Engineering,Science and
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

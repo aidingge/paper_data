@@ -1,0 +1,1 @@
+ CAPTCHA 综述 人机区分 区分图灵 测试 completely automated public Turing test computers humans CAPTCHA 称为 人机交互 验证 human interactive proof HIP 自动 评估 测试 所有人 用户 现有 计算机程序 CAPTCHA 自动 人和机器 手段 标准 网络安全 成功 应用于包括 Google Yahoo 微软 网站 CAPTCHA 开放性表现 载体 内容分为 文本 图像 声音 类型 字符识别 文本 CAPTCHA 图像 CAPTCHA 利用计算机 视觉 难解 阶段 声音 CAPTCHA 视觉 残障者 视觉 CAPTCHA 补充 CAPTCHA 准则详细 阐述 CAPTCHA 破解 研究工作 最新进展 给出 典型实例 实例讨论 可用性安全性 CAPTCHA

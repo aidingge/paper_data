@@ -1,0 +1,14 @@
+RT Journal Article
+SR 1
+AD 北京机械工业自动化研究所;
+TP 2011年IEEE世界机器人与自动化大会在上海举行
+JF 低压电器
+YR 2011
+IS 09
+OP 62
+K1 机器人;人工智能;IEEE;上海;
+AB <正>2011年IEEE世界机器人与自动化大会(2011 IEEE International Conference on Roboticsand Automation)于5月9-13日在上海国际会议中心举行。ICRA是IEEE机器人与自动化的旗舰年会,也是该领域影响最大的权威国际会议。ICRA2011是ICRA的第28届年会。在2004年4月美国奥尔良召开的2004年大会上,我国申办2011年大会获得成功。
+SN 1001-5531
+CN 31-1419/TM
+LA 中文;
+DS CNKI

@@ -1,0 +1,1 @@
+ 机器人 路径 规划安全性 验证 近年来 伴随浪潮 机器人 越来越 日常生活 足球 机器人 无人机保证 保证自治 机器人 关心 混成 通信 顺序进程 hybrid communicating sequential process 简称 HCSP 混成 形式化 建模语言 通信 顺序进程 communicating sequential process 简称 CSP引入 微分方程 描述 混成 连续 控制逻辑 控制系 通信 事件 发生 情形 形式化 建模 HCSP 建模 机器人 路径 控制算法 并用定理 定理证明 证明工具 HProver 形式化 验证 初始条件 机器人 团队运行 途中 发生

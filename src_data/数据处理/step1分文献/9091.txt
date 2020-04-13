@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 万良来;
+AD 浙江宁波北仑白峰中学;
+TP 利用NetSupport School开展信息技术课堂教学与管理——以《机器人走正方形》教学设计为例
+JF 中小学信息技术教育
+YR 2010
+IS Z1
+OP 87-88+144
+K1 信息技术课堂教学;机器人;NetSupport School;教学设计;
+AB <正>NetSupport School(以下简称NSS)是一个类似于NetOp School的国外电子教室控制软件,是一个班级解决方案。在笔记本电脑、手写笔、网络打印机组成的无线网络环境下,它的电子白板、语音管理
+SN 1671-7384
+CN 11-4860/G4
+LA 中文;
+DS CNKI

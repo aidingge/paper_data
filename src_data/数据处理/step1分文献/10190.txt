@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 耿劲松;周爱玲;茅家慧;朱燕;施海燕;胡亚娥;
+AD 南通大学医学院;
+TP 脑益康对AD大鼠学习记忆及海马NGF-TrkA mRNA表达的影响
+JF 中国老年学杂志
+YR 2009
+IS 02
+OP 152-155
+K1 脑益康;阿尔茨海默病;学习;记忆;NGF-TrkA
+AB 目的探讨中药复方脑益康对阿尔茨海默病(AD)大鼠学习、记忆能力及海马NGF-TrkA mRNA表达的影响。方法采用脑立体定位仪自双侧Meynert核(nucleus basalis of Meynert,NBM)注射鹅膏蕈氨酸(Ibotenic acid,IBO)建立AD大鼠模型,分别给予不同剂量脑益康对AD大鼠进行治疗。采用Y-迷宫刺激器分别测试大鼠的学习、记忆能力,尼氏染色法显示基底前脑尼氏小体的变化,逆转录-聚合酶链式反应(RT-PCR)检测海马NGF-TrkA mRNA的表达。结果脑益康能提高IBO损伤双侧NBM、建立AD大鼠模型的学习记忆能力、改善AD大鼠基底前脑病理改变、上调海马NGF-TrkA mRNA表达。结论脑益康能提高AD大鼠的学习、记忆能力,其机制与增加NGF-TrkA mRNA的表达、保护胆碱能神经元有关。
+SN 1005-9202
+CN 22-1241/R
+LA 中文;
+DS CNKI

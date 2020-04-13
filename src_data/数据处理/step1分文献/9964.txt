@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 李立成;
+AD 桂林电子科技大学;
+TP 智能审计决策支持系统浅探
+JF 财会通讯
+YR 2009
+IS 10
+OP 109-110
+K1 决策支持系统;ADSS;审计人员;知识库;推理机;决策系统;知识工程;第五代计算机;专家系统;数据库子系统;模型库子系统;人工智能;数据挖掘系统;方法库;数据库;浅探;
+AB <正>智能审计决策支持系统(Intelligent Audit Decision Support System,IADSS)通常简称为智能审计系统,它是在传统审计决策支持系统(Audit Decision Support System,ADSS)的基础上结合审计专
+SN 1002-8072
+CN 42-1103/F
+LA 中文;
+DS CNKI

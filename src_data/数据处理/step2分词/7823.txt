@@ -1,0 +1,1 @@
+ II Hamiltonian 理论 机器人 速度观测器 近期 Astolfi Stamnes 机械系统 速度观测器 分步 Lyapunov 函数导致 观测误差 系统结构 证明繁琐 微分方程 Partial differential equation PDE不合理 不合理导致 导致不易 不易求解 Astolfi Stamnes 机械 机器人 系统设计 速度观测器 观测误差 Hamiltonian 克服 Astolfi Stamnes 缺点 微分方程 繁琐 速度观测器 关节机器人 仿真验证 

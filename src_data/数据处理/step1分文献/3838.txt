@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 周志华;
+AD 南京大学;
+TP AlphaGo专题介绍
+JF 自动化学报
+YR 2016
+IS 05
+OP 670
+K1 
+AB <正>谷歌AlphaGo围棋程序与韩国李世石九段的"人机大战"以AlphaGo4:1获胜告终,引起了社会各界的广泛关注,人们一边惊叹于人工智能技术取得的进展,一边对AlphaGo的"奥秘"深感好奇。
+SN 0254-4156
+CN 11-2109/TP
+LA 中文;
+DS CNKI

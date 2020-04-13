@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2018年机器人与人工智能国际会议(JCRAI 2018)（英文）
+JF 智能系统学报
+YR 2018
+IS 05
+OP 699
+K1 JCRAI 2018;
+AB <正>2018 International Joint Conference on Robotics and Artificial Intelligence(JCRAI 2018)will be held in Wellington,New Zealand on Dec 10–12,2018.JCRAI 2018 welcomes researchers,engineers,scientists and industry professionals to an open forum where advances in the field of Robotics and Artificial Intelligence can be shared and examined.The conference is an ideal plat-
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

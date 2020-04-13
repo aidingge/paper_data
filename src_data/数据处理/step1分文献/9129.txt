@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 魏来;王雪莲;
+AD 东北师范大学计算机科学与信息技术学院;东北师范大学图书馆;
+TP WSMO理论框架与应用研究
+JF 现代情报
+YR 2010
+IS 08
+OP 19-24
+K1 WSMO;WSML;WSMX;OWL-S;WSMO应用范例;VTA
+AB WSMO作为W3C的成员报告,为语义网络服务提供了一个建模本体。文章全面系统的介绍WSMO的整体理论框架,包括理论模型(WSMO)、建模语言(WSML)和执行环境(WSMX)的构建,在此基础上,对WSMO和OWL-S两种描述网络服务的本体语言进行比较分析,并深入剖析了应用范例VTA。
+SN 1008-0821
+CN 22-1182/G3
+LA 中文;
+DS CNKI

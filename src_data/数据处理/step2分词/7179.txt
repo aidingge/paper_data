@@ -1,0 +1,1 @@
+ FPGA 内部 DualRAM 机器人 指令存储 高精度 机器人 控制 FPGA RAM 容量有限 保存规划 运动 指令 FPGA RAM 生成 DualRAM 判断 运动 参数存入 DualRAM FPGA 内部 RAM 外部 RAM 扩展精简 指令存储 电路 增强 可移植性 机器人 成功应用于 应用于工件 工件作业 作业运行 稳定 重复 精度 mm水平 

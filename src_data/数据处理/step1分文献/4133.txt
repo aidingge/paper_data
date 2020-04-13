@@ -1,0 +1,14 @@
+RT Journal Article
+SR 1
+A1 谢洵;
+TP 国际资讯
+JF 中国远程教育
+YR 2016
+IS 01
+OP 77-78
+K1 MOOC;尼日利亚;开放教育资源;版权;学习者;国家开放大学;
+AB <正>Udacity和谷歌联合推出微学位Udacity和谷歌公司于2015年11月17日推出了一个新的学分项目:"高级网页开发者微学位"(Senior Web Developer Nanodegree)。谷歌项目开发者培训组经理莎拉·克拉克(Sarah Clark)认为:该在线项目将为学生提供"写出安全易用的高级网络应用代码所需的工具、
+SN 1009-458X
+CN 11-4089/G4
+LA 中文;
+DS CNKI

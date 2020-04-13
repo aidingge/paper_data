@@ -1,0 +1,1 @@
+ 多核 局部 学习 旨在辅助 标签 本来 学习 目标分类器 关键问题 最大化减小 分布 差异 分布 变化三段式 多核 局部 学习 multiple kernel local leaningbased domain adaptation 简称 MKLDA 均值 maximum discrepancy 简称 MMD度量 度量准则 准则结构 风险 最小化模型 学习 再生 多核 Hilbert 空间 向量 support vector machine 简称 SVM 目标 划分习得 多核 Hilbert 空间 目标 类别信息 局部 重构 学习 类别信息 目标 训练 学习 目标分类器 结果显示 优化

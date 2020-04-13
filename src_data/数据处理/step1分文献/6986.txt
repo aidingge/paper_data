@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 朱齐丹;刘学;蔡成涛;
+AD 哈尔滨工程大学自动化学院;
+TP 基于均匀分布特征的机器人归航
+JF 机器人
+YR 2013
+IS 05
+OP 544-551
+K1 视觉归航;均匀分布;特征分布评价;SIFT特征;全景视觉
+AB 提出一种考虑特征分布的局部特征提取算法,提取非结构化环境中符合各项同性分布的局部特征作为自然路标,使得基于行为的机器人能够利用这些路标实现高精度的视觉归航.以SIFT(scale invariant feature transform)算法为基础,通过改善局部特征的分布均匀性得到了UD-SIFT(uniform distribution-SIFT)算法,并提出一种新的评价标准对局部特征的分布均匀性进行评估.采用基于全景视觉的ADV(average displacement vector)和ALV(average landmark vector)方法,在室内、走廊和室外环境下进行归航实验,相对于原始SIFT算法,采用UD-SIFT算法时,归航的平均方向误差降低了25.01%以上.结果表明:本文算法有效改善了特征的均匀分布状况,提高了机器人的归航精度.
+SN 1002-0446
+CN 21-1137/TP
+LA 中文;
+DS CNKI

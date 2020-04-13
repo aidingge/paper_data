@@ -1,0 +1,1 @@
+ 时间投影 投影时序 时序逻辑 完备 公理 定理证明 并发 验证 论域下有 时间投影 投影时序 时序逻辑 projection temporal logic 简称 PTL 完备 公理 PTL 语法 语义 给出 公理 PTL 正则 normal form 简称 NF 正则 normal form graph 简称 NFG 给出 NFG 构造算法 NFG 描述公式 公式模型 模型性质 证明 PTL 判定 定理 公理 完备 实例展示 PTL 公理 系统验证 PTL 定理证明 用于 并发 建模

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 李恬;周宏;
+AD 重庆工学院现代教育技术中心;
+TP 基于Webquest的自适应教学系统设计与研究
+JF 现代教育技术
+YR 2009
+IS 01
+OP 116-121
+K1 Webquest;智能系统;教学资源;学习
+AB 文章根据Webquest教学支撑平台存在的诸多问题,利用人工智能技术、Agent技术和Web服务技术,对传统的Webquest教学设计模式进行改进,提出了Webquest自适应教学系统结构,阐述了系统模块功能和实现方法,并对部分关键技术和算法进行了分析。说明了改进后的Webquest教学系统具有很好的学习适应性。
+SN 1009-8097
+CN 11-4525/N
+LA 中文;
+DS CNKI

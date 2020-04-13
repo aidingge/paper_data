@@ -1,0 +1,1 @@
+ 倒立机器人 模型预测 控制策略 驱动 双轮倒立 倒立机器人 Two Wheeled Inverted Pendulum Robot TWIPR 耦合 不确定性 模型 优化 模型预测 控制 Model Predictive Control MPC 策略 模型预测 控制器 引入解耦 单元 双轮倒立 倒立机器人 独立 控制 前馈 控制 MPC控制器 可测性 干扰 补偿 增强 MPC控制器 有效性 鲁棒性 梯状 干扰 外力 MPC控制器 评估 外部 干扰 倾斜角旋转 响应方根 误差 Means Square Error MSE线性 调节 Linear Quadratic Regulator LQR 控制器 MPC控制器 MES LQR 控制器 减小证明了 MPC控制器 TWIPR 控制 优越性可靠性

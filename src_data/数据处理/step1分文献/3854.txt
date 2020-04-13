@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2016年度CCF活动计划(部分)
+JF 计算机应用
+YR 2016
+IS 05
+OP 1174
+K1 CCF;中国计算机学会;活动计划;
+AB <正>5月6日—8日西安第11届绿色、普适计算及云计算国际会议(GPC 2016)会议编号:CCF-TC-16-01G主办:中国计算机学会IEEE Computer Society承办:中国计算机学会普适计算专委会西安电子科技大学联系:金海(hjin@bust.edu.cn)网址:meeting.xidian.edu.cn/conference/GPC2016/cfp.htm5月20日—22日桂林第六届中国数据挖掘会议(CCDM 2016)会议编号:CCF-TC-16-01N主办:中国计算机学会承办:中国计算机学会人工智能与模式识别专委会
+SN 1001-9081
+CN 51-1307/TP
+LA 中文;
+DS CNKI

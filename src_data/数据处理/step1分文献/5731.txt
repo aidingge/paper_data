@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 黄心汉;
+AD 华中科技大学自动化学院;
+TP 智能机器人:21世纪科技皇冠上的璀璨明珠
+JF 科技导报
+YR 2015
+IS 21
+OP 9-15
+K1 intelligent robot;industrial robot;military robot;bionic robot;serving robot;humanoid robot
+AB 在回顾智能机器人发展历程的基础上,阐述了机器人的过去:人类的幻想,机器人的现在:从幻想走向现实,机器人的未来:智能机器人。介绍了工业机器人、军用机器人、仿生机器人、服务机器人、多指灵巧手和类人机器人的主要功能、研究现状和应用背景。展望了智能机器人的发展前景。
+SN 1000-7857
+CN 11-1421/N
+LA 中文;
+DS CNKI

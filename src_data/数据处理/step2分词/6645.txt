@@ -1,0 +1,1 @@
+ 输电 网络故障 诊断系统 电力系统 发生故障 保护断路器 正确 动作 保护断路器 警报 信号畸变 丢失情况下 调度人员 准确 判断 故障 困难 电力系统 故障诊断 决策 辅助 调度人员 发生故障 做出 正确 诊断 背景 电力系统 开发 输电网 故障诊断 决策 故障诊断 解析 模型为基础 保护断路器 状态 诊断 信息源 优化算法 实施 故障诊断 软件开发 公共信息 模型为基础 能量 管理系统 Energy Management System EMS监视 控制 数据采集 Supervisory Control And Data Acquisition SCADA 故障 信息系统 Fault Information System FIS信息 信息协助 调度人员 面对 故障 常见故障 元件 加快 事故 处理速度

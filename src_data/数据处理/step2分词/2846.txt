@@ -1,0 +1,1 @@
+ 生成式对抗 对抗网络 GAN 研究进展 展望 生成式对抗 对抗网络 GAN Generative adversarial networks 学界 热门 GAN 思想 源自 博弈论博弈 博弈生成器 判别 对抗 学习训练 目的 估测 样本 分布生成 样本 图像视觉 语音 语言 信息安全 棋类 比赛 GAN 前景概括 GAN 研究进展 展望 GAN 背景 理论 模型 应用领域 优缺点 发展趋势 讨论 GAN 平行 智能 关系 GAN 深化 平行 虚实 互动一体 一体理念 特别 思想 ACP Artificial societies computational experiments parallel execution 理论

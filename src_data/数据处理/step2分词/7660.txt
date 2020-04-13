@@ -1,0 +1,1 @@
+ tree partbased 模型 目标识别 识别定位 tree partbased 模型 目标识别 识别定位 tree partbased 模型 应用于静态 图像单一 目标识别 识别定位 可变形模板 Deformable template 测试 图像 提取训练 模型 关联度阈值 阈值范围内 范围内外观 模型 空间 模型 实现目标 识别定位 目标识别 识别定位 

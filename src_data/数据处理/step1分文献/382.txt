@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 方滨兴;任奎;贾焰;
+AD China Electronics Corporation;Guangzhou University;Beijing University of Posts and Telecommunications;University at Buffalo,State University of New York;National University of Defense Technology;
+TP 网络安全的新领域
+JF Engineering
+YR 2018
+IS 01
+OP 7-10
+K1 网络安全;物联网;人工智能;训练数据;机器学习;图像识别;垃圾邮件;学习模型;
+AB <正>网络安全技术是一种特殊的伴生技术,它为其所服务的底层应用而开发。随着这些底层应用变得越来越互联、普及和智能化,安全技术在当今社会也变得越来越重要。近几年来,我们见证了云计算、边缘计算、物联网(Io T)、人工智能(AI)、工业4.0、大数据以及区块链技术等新兴领域的尖端计算和信息技术的不断普及。
+SN 2095-8099
+CN 10-1244/N
+LA 中文;
+DS CNKI

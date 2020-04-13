@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2017年第10届智能机器人与应用国际会议（英文）
+JF 智能系统学报
+YR 2016
+IS 06
+OP 817
+K1 智能机器人;智能自动机;人工智能;英文;
+AB <正>The 2017 International Conference on Intelligent Robotics and Applications(ICIRA 2017)will be held in Wuhan,China,from August 15 to 18,2017.The conference offers a unique and interesting platform for scientists,engineers andpractitioners throughout the world to present and share their recent research and innovative ideas in the areas of robotics,
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

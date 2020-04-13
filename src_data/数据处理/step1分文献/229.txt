@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 L.M.Prevedello;B.S.Erdal;J.L.Ryu;K.J.Little;M.Demirer;S.Qian;徐凯;
+AD Department of Radiology,The Ohio State University Wexner Medical Center;
+TP 利用人工智能进行自动化关键测试影像结果识别和在线提示系统
+JF 国际医学放射学杂志
+YR 2018
+IS 01
+OP 104
+K1 AI;人工智能;急性梗死;敏感度;
+AB <正>摘要目的评价采用深度学习算法的人工智能(AI)工具对头颅平扫CT发现出血、肿块或脑积水(HMH)的价值,明确算法诊断可疑性急性梗死(SAI)的价值。材料与方法 本
+SN 1674-1897
+CN 12-1398/R
+LA 中文;
+DS CNKI

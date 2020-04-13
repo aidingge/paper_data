@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 刘勇;卢宇鹏;
+AD 浙江大学智能系统与控制研究所;
+TP 局部随机行为机器人可促进人类整体协作
+JF 科技导报
+YR 2017
+IS 14
+OP 13-14
+K1 机器人;网络中心;随机行为;策略;实验结果;人工智能;人类;相邻节点;
+AB <正>遵循原则办事一直以来被认为是人类高效合作的基础,然而最近一项研究表明,一定程度上不按常理出牌反而可以促进人类合作,实现大同。2017年5月17日,来自耶鲁大学的学者Hirokazu Shirado和Nicholas A.Christakis,在《Nature》上发表了一篇题为《Locally noisy autonomous agents improve global human coordination
+SN 1000-7857
+CN 11-1421/N
+LA 中文;
+DS CNKI

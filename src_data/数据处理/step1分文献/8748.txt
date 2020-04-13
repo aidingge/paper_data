@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 吴景华;
+AD 黄石理工学院机电工程学院;
+TP 利用KBE与ActiveX的机械产品异步式参数化设计研究
+JF 现代制造工程
+YR 2010
+IS 02
+OP 60-65
+K1 参数化设计;异步模式;知识工程;API;模块ActiveX Automation技术
+AB 针对目前参数化设计存在的不足,提出进程外驱动(外异步模式)参数化设计思想,利用面向对象技术开发了基于知识工程(KBE)的机械产品参数化设计平台(PDS-MP)。PDS-MP结合基于实例的推理(Case Based Research,CBR)方法综合表达产品设计实例,并以三维CAD系统API模块为接口,采用ActiveX Automation技术及消息通信,实现.NET开发的PDS-MP与CAD系统的无缝集成。借助表格、产生式规则及特征三种驱动方法进行设计,在知识重用和产品信息共享的基础上快速实现三维建模与虚拟装配,为数字化设计与制造提供高效、准确和实用的方法。
+SN 1671-3133
+CN 11-4659/TH
+LA 中文;
+DS CNKI

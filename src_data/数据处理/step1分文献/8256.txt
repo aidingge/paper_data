@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 蔡建羡;阮晓钢;
+AD 北京工业大学电子信息与控制工程学院;防灾科技学院;
+TP 基于遗传算法的Skinner操作条件反射学习模型
+JF 系统工程与电子技术
+YR 2011
+IS 06
+OP 1370-1376
+K1 操作条件反射;遗传算法;概率自动机;运动平衡控制
+AB 以概率自动机(probabilistic automata,PA)为平台,结合遗传算法(genetic algorithm,GA)的进化思想,设计了反映Skinner操作条件反射(operant conditioning,OC)思想的仿生学习模型,称为基于遗传算法的操作条件反射概率自动机(genetic algorithm-operant conditioning probabilistic automata,GA-OCPA)学习系统。每一次学习尝试之后,首先,学习系统把通过OC学习算法学习得到的信息熵值作为个体适应度;然后,执行遗传算法,搜索最优的个体;最后,再执行OC学习算法学习最优个体内的最优操作行为,以得到新的信息熵值。理论上分析了GA-OCPA学习系统学习算法的收敛性,通过对两轮机器人运动平衡控制的仿真分析,表明设计的GA-OCPA学习系统的学习是一个自动获取知识和提炼的过程,具有高度的自适应能力。
+SN 1001-506X
+CN 11-2422/TN
+LA 中文;
+DS CNKI

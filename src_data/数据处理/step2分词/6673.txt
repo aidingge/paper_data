@@ -1,0 +1,1 @@
+ PDDL ER 建模开发 存储 规划 智能 规划 面对 规模 越来越 预见 更大 现有 存储 扩展空间 终极 形式 数据库 存储 规划 包含常量 重用信息 加速 求解 更好 重用信息 数据库 考虑到 规划 描述语言 PDDL planning domain description language ER 模型 entity relationship model 模型 存储 编写 规划 SPP stored procedure planner SPP 数据库 内部运行 最优 规划 存取效率高 充分利用 数据库 国际 规划 大赛IPC IPCInt planning competition 基准有限 机器配置 SPP 求解 最优 规划 求解 工作迈出 数据库 求解 规划 彻底解决

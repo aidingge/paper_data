@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2014 IEEE/RSJ智能机器人与系统国际会议(英文)
+JF 智能系统学报
+YR 2014
+IS 01
+OP 126
+K1 智能机器人;智能自动机;人工智能;IEEE/RSJ;RSJ;
+AB <正>September 14—18,2014Chicago,Illinois,USAThe 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS 2014)will be held in Chicago,Illinois,USA,September 14—18,2014.The venue for IROS 2014 is the historic Palmer House Hilton,close by Millennium Park,Lake Michigan,Navy Pier,the Magnificent Mile,the Museum Campus,and
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

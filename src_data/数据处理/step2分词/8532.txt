@@ -1,0 +1,1 @@
+ 视觉 定位地图 地图创建 关联方 规模 地图 增长增加 增加导致 机器人 定位地图 地图创建 simultaneous localization mapping SLAM 实时原因 极小连通 连通支配 connected dominating setCDS CDS降低 地图 元素数目 关联 效率 进一步 优化 MCDS 延迟 建立 极小连通 连通支配 自适应 搜索 极小连通 连通支配 视觉 SLAM SIFT 算法 提取 自然 路标 扩展 卡尔曼滤波 算法 融合 视觉 信息 机器人 信息 SLAM 极小连通 连通支配 集数 关联 可信

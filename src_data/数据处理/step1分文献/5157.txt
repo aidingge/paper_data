@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 张建明;詹智财;成科扬;詹永照;
+AD 江苏大学计算机科学与通信工程学院;
+TP 深度学习的研究与发展
+JF 江苏大学学报(自然科学版)
+YR 2015
+IS 02
+OP 191-200
+K1 浅层学习;深度学习;层次结构;人工智能;机器学习
+AB 针对以往浅层学习对特征表达能力不足和特征维度过多导致的维数灾难等现象,深度学习通过所特有的层次结构和其能够从低等级特征中提取高等级特征很好地解决了这些问题,并给人工智能带来了新的希望.首先介绍了深度学习的发展历程,并介绍了基于restricted boltzmann machines(RBM)、auto encoder(AE)和convolutional neural networks(CNN)的deep belief networks(DBN)、deep boltzmann machine(DBM)和stacked auto encoders(SAE)等深度模型.其次,对近几年深度学习在语音识别、计算机视觉、自然语言处理以及信息检索等方面的应用的介绍,说明了深度学习结构在相比较于其他结构的优越性和在不同任务上更好的适应性.最后通过对现有的深度学习在在线学习能力、大数据上和深度结构模型的改进上的思考和总结,展望了今后深度学习的发展方向.
+SN 1671-7775
+CN 32-1668/N
+LA 中文;
+DS CNKI

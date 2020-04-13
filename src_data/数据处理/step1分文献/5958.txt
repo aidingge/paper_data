@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2014机器人、微机电一体化和人工智能国际会议(英文)
+JF 智能系统学报
+YR 2014
+IS 02
+OP 153
+K1 机器人;人工智能;微机电;
+AB <正>2014 International Conference on Robotics,Micro-Mechanotronics and Artificial Intelligence(RMAI 2014)will be held from December 6 to December 7,2014,in Shenyang,China.RMAI2014 is sponsored by Shenyang Aerospace University and co-sponsored by Shenyang University,Liaoning Shihua University,University of Management and Economics(Cambodia).This conference is a premier international forum for scientists and researchers to present the state of the art
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

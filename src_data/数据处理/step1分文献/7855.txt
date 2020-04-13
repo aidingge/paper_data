@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 谢治州;
+AD 黔南民族师范学院数学系;
+TP 关于Newton法的Kantorovich型定理及其优函数
+JF 数学进展
+YR 2012
+IS 06
+OP 641-654
+K1 Newton法;Kantorovich型定理;半局部收敛;优函数;广义Lipschitz条件
+AB 本文研究Newton法的Kantorovich型定理的特点及其对Newton法的半局部收敛性研究的思想方法,论述广义Lipschitz条件下的Kantorovich型定理的概括性和统一性.同时,在理论上当x_0取定时,针对每一个满足广义Lipschitz条件的光滑算子,给出优函数的一个构造方法.
+SN 1000-0917
+CN 11-2312/O1
+LA 中文;
+DS CNKI

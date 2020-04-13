@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP KUKA亮相CIIF201
+JF 制造技术与机床
+YR 2015
+IS 12
+OP 161-162
+K1 机器人;KR;ARC;Nano;人工智能;CIIF201;KUKA;
+AB <正>2015年11月3日,德国KUKA公司在第17届中国国际工业博览会·机器人展上正式推出KR CYTEC Nano系列机器人。全新的关节臂式KR CYTEC nano机器人采用流线型设计、反应敏捷、操纵灵活,负载范围为6~10 kg,能胜任长距离的工作范围,即使在狭窄的空间内仍能工作自如,凭借前所未有的小巧紧凑外观而赢得市场青睐。该系列机器人包括2款产品:用于搬运和装配小型部件的KR CYTEC nano和专业焊接加工机器人KR CYTEC ARC nano。这两款产品都包括不同的负载参数可供选择,KR CYTEC
+SN 1005-2402
+CN 11-3398/TH
+LA 中文;
+DS CNKI

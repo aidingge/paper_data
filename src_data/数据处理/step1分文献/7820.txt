@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 王星;严丽;马宗民;陈吉;
+AD 辽宁工程技术大学电子与信息工程学院;东北大学软件学院;东北大学信息科学与工程学院;
+TP 语义Web模糊If-then和If-then-unless规则语言
+JF 小型微型计算机系统
+YR 2012
+IS 11
+OP 2398-2404
+K1 语义Web;非单调性;模糊集;f-SW-if-then-RL;f-SW-if-then-unless-RL
+AB 近年来,使用规则表示和推理知识成为语义Web的重要研究议题之一.If-then规则已经广泛应用于人工智能领域.但是,由于缺乏语义Web元素、非单调元素和模糊元素,if-then规则无法表示和推理语义Web中广泛存在的、非单调模糊知识.为了解决此问题,结合if-then规则和OWL DL(Web Ontology Language Description Logic),在模糊集和可能性理论的框架下,提出两种新的语义Web规则语言—f-SW-if-then-RL(fuzzy Semantic Web if-then Rule Language)和f-SW-if-then-unless-RL(fuzzySemantic Web if-then-unless Rule Language),定义它们的语法和XML Schema,研究它们的语义.提出的两种规则语言能够增强规则语言表示和推理语义Web非单调模糊知识的能力.
+SN 1000-1220
+CN 21-1106/TP
+LA 中文;
+DS CNKI

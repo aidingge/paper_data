@@ -1,0 +1,14 @@
+RT Journal Article
+SR 1
+A1 本刊讯;
+TP Facebook开源CV开发平台Detectron,支持各种物体识别算法
+JF 数据分析与知识发现
+YR 2018
+IS 02
+OP 85
+K1 Facebook;计算机视觉;CV;
+AB <正>近日,Facebook人工智能实验室宣布开源其先进的物体检测研究平台Detectron,为广大研究人员未来的新计算机视觉研究课题提供灵活、快速的模型实现和评估途径。Detectron项目始于2016年7月,当时的目的是在Caffe2的基础上建立一个快速、灵活的物体检测系统,内部开发过程也就从此开始。经过一年半的开发之后,代码库已经成熟,而且集成了许多Facebook自己的研究项目,包括在ICCV 2017上
+SN 2096-3467
+CN 10-1478/G2
+LA 中文;
+DS CNKI

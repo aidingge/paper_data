@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 司建星;夏田;丁丙坤;
+AD 陕西科技大学机电工程学院;
+TP 基于Solidworks装弹机器人的虚拟设计及其运动仿真
+JF 制造业自动化
+YR 2013
+IS 20
+OP 21-22
+K1 装弹机器人;SolidWorks;虚拟设计;运动仿真
+AB 把Solidworks的虚拟装配技术和运动仿真应用到机器人的设计中,用Solidworks建立装弹机器人的三维模型,并利用Solidworks插件Cosmotion主要对机器人进行运动仿真分析,得出机器人在实际工作中的运动轨迹图以及机器人末端执行器的位移和速度的分析曲线,为装弹机器人在实际工作中提供了重要的依据。
+SN 1009-0134
+CN 11-4389/TP
+LA 中文;
+DS CNKI

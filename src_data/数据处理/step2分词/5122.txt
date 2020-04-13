@@ -1,0 +1,1 @@
+ 机器检测 MicroDalvik 虚拟机 模型 给出 寄存器 虚拟机 模型 MicroDalvik 包括 虚拟机 指令集 虚拟机 运行状态 形式化 大步操作 语义 bigstep operational semantics 给出 指令 单步执行 状态转换 定义 单步执行 自反传递 传递闭包 表达 虚拟机 程序 运行状态 状态转换 定理 形式 描述 语义 性质 证明 模型 指令集 包括 大部分 Dalvik 虚拟机 指令 形式 语义 清晰化 Dalvik VM 指令集 抽象其实质 其实质改变 改变较大 实用性 形式化 模型 定理 证明 助手 Isabelle HOL

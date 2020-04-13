@@ -1,0 +1,1 @@
+ 气门热锻 热锻成型 成型机器人 PCPLC PLC通信 气门热锻 热锻成型 成型机器人 PCPLC PLC通信 定时扫描 通讯 状态 等待 PLC 发送信号 Visual MSComm 控件 编写 应用程序 PCPLC 通讯 连续 读写 PLC 应用程序 占用CPU CPU资源 实时性发动机 气门热锻 热锻成型 成型机器人 

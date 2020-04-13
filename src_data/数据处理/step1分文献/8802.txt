@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 唐晓英;应龙;刘伟峰;
+AD 北京理工大学生命学院;
+TP 激光治疗鲜红斑痣手术机器人双目视觉系统的实时立体匹配(英文)
+JF Transactions of Nanjing University of Aeronautics & Astronautics
+YR 2010
+IS 01
+OP 45-50
+K1 机器人;双目视觉系统;立体匹配; Hu矩
+AB 针对激光治疗鲜红斑痣手术机器人双目视觉系统在监测治疗区域的空间位置时立体匹配的实时性和准确性要求,提出了一种基于极线引导的立体匹配算法。采用基于角点的Hu矩匹配,计算双目视觉系统的基本矩阵。实验结果与计算结果相符。
+SN 1005-1120
+CN 32-1389/V
+LA 英文;
+DS CNKI

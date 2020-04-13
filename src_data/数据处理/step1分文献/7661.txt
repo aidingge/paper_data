@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 赵凯华;
+AD 北京大学物理学院;
+TP Emergence,这个跨学科的名词汉语怎样订名?
+JF 物理
+YR 2012
+IS 09
+OP 611-614
+K1 对称性破缺;心智活动;神经元;物理学家;含义;人工智能;神经组织;逻辑实证主义;还原论;凝聚态物理学;Emergence;
+AB <正>Emergence(形容词emergent)原是日常用语,其本意是coming into view,或coming out(from water)(Oxford字典),或a rising into view(Webester字典),汉语可译作"涌现".与它字型非常相近的一个字emergency则有"紧急事件"、"突发事故"之意.早在19世纪,特别是20世纪以来,emergence一词被许多学科的学者引用,赋予了新的含义.物理学界用到此词在时间上相对比较晚,可
+SN 0379-4148
+CN 11-1957/O4
+LA 中文;
+DS CNKI

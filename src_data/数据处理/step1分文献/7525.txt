@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2013年第23届人工智能国际会议(IJCAI-2013)(英文)
+JF 智能系统学报
+YR 2012
+IS 03
+OP 219
+K1 人工智能;IJCAI-2013;英文;
+AB <正>IJCAI-13 will take place in Beijing.Beijing is renowned for its opulent palaces,temples,and huge stone walls and gates.Its art treasures and universities have long made the city a centre of culture and art in China.In 2008,Beijing hosted
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

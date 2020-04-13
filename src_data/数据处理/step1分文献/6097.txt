@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 李慧;卫兵;王浩君;高云萌;朱鹏涛;
+AD 北京机械工业自动化研究所;
+TP 基于PROFIBUS-DP的ABB机器人与安川MP2310的数据通讯
+JF 制造业自动化
+YR 2014
+IS 13
+OP 23-24+50
+K1 PROFIBUS-DP;安川MP控制器;数据通讯;ABB机器人
+AB PROFIBUS是目前国际上通用的现场总线标准之一,它是开放式的,不依赖于生产厂家,广泛地应用于制造业、过程及建筑自动化的通信。以一个实际应用项目为例,阐述如何通过PROFIBUS-DP实现ABB机器人与安川MP2310的数据通讯。
+SN 1009-0134
+CN 11-4389/TP
+LA 中文;
+DS CNKI

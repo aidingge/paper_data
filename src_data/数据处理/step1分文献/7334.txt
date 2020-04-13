@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 风河为Comau机器人提供RTOS平台
+JF 测控技术
+YR 2012
+IS 02
+OP 67
+K1 机器人;人工智能;RTOS;Comau;
+AB <正>全球嵌入式及移动应用软件领导厂商风河(Wind River)近日宣布,全球领先的高质量工业机器人制造商ComauRobotics在其最新一代机器人控制单元(robot control unit)中采用风河的实时操作系统VxWorks平台。新推出的C5G是该公司旗下第5代控制单元,运算速度与前一代产品相比快了50倍之多。采用风河VxWorks
+SN 1000-8829
+CN 11-1764/TB
+LA 中文;
+DS CNKI

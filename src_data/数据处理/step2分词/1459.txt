@@ -1,0 +1,1 @@
+ FVSMSVM 机器人 建模 辨识 耦合 高度 机器人 辨识 特征向量 FVS 输出 向量 MSVM 核技术 映射 空间 输入 几何提取 空间 基底 向量 定义 空间 投影 空间 MSVM 建立 辨识 模型 MSVM 敏感损失 损失函数 函数紧凑 疏解 优点验证 FVSMSVM 有效性应用于 应用于液压 驱动 机器人 油压 辨识 PUMA 工业 机器人 运动学 辨识 SARCOS 机器人 动力学 建模 同等条件 FVSMSVM KPCAMSVM FVS 线性 回归LR FVSMSVM 减小复杂度 复杂度很好 建模 辨识 精度

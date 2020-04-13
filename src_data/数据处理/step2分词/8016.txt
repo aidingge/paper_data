@@ -1,0 +1,1 @@
+ LSTM RNN CAPTCHA 识别方法 区分计算机 计算机图灵 图灵测试 CAPTCHA 难题 网络安全 机制 CAPTCHA 识别 变得并能 并能难题 求解 文中现有 CAPTCHA 识别方法 长短记忆 LSTM 递归 神经网络 RNN 识别 CAPTCHA 识别 特征提取 进一步提高 RNN 识别率 解码算法 文中灰度 RNN 较好 解码算法 较高 识别率 较低时间 

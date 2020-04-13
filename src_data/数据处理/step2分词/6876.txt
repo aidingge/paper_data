@@ -1,0 +1,1 @@
+ 增广 ESN 机器人 轨迹跟踪 跟踪控制 模型 不确定性 机器人 操作手 轨迹跟踪 跟踪控制 以往 动态 递归 神经网络 recurrent neural network RNN 训练 算法 难以实现 机械手 增广 策略回声 回声状态 网络 echo state network ESN AESN augmented echo state network 网络 增广 学习策略 离线 训练 ESN 输出 权值 训练 服从 均匀分布 噪声项来 保证 动态 稳定性关节 机械手 轨迹跟踪 跟踪控制 AESN 辨识 机械手 模型 并用PID 反馈控制 补偿 AESN 网络 建模误差 AESN 动态 控制器数值 数值仿真 常规 递归 神经网络 算法 结果显示 控制精度 常规 很大

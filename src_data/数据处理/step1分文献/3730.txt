@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2016年控制论、机器人与控制国际会议（英文）
+JF 智能系统学报
+YR 2016
+IS 03
+OP 400
+K1 机器人;人工智能;控制论;数学;英文;
+AB <正>2016 International Conference on Cybernetics,Robotics and Control will be held in Hong Kong during August 19-21,2016.The idea of the conference is providing a platform for scientists,scholars,and engineers from all over the world to present ongoing researches,and to foster research relations between the Universities and the Industry.We are looking forward to your participation.
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

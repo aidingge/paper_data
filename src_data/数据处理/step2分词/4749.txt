@@ -1,0 +1,1 @@
+ 条件 AUV编队 决策 WIFTCPN 形式化建模 AUV编队 测量精确 水下通信 时延 粒度 条件 作用 决策 离散 时延 分层 信息 模糊 数学 形式化建模 仿真 验证 一体 加权直觉 模糊 时间着色 Petri weighted intuitionistic fuzzy timed colored petri WIFTCPN 给出 模糊 时间延迟 信息 模糊 知识 加权直觉 模糊推理 WIFTCPN 之间映射 映射关系 关系CPN Tools 工具 信息 推理 决策 仿真 模型 仿真 检验 模型

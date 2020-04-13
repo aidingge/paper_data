@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 李二超;李战明;李炜;
+AD 兰州理工大学电气与信息工程学院;
+TP 基于Matlab/Simulink机器人力控制系统仿真研究
+JF 机床与液压
+YR 2011
+IS 09
+OP 108-110
+K1 S-Function模块;机器人;力控制
+AB 介绍一种在M atlab/S imu link环境下末端与环境接触的机器人力控制仿真方法。将基于S-Function功能实现的系统模型嵌入到S imu link仿真环境中,可简化仿真模型、降低编程难度,这种方法可以推广到其他复杂控制系统的建模。通过对二自由度机器人力控制仿真编写S-Function模块,验证了此方案的实用性。
+SN 1001-3881
+CN 44-1259/TH
+LA 中文;
+DS CNKI

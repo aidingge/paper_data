@@ -1,0 +1,1 @@
+ RNN CAPTCHA 识别 人机区分 区分图灵 图灵测试 CAPTCHA 开放性 网络安全 CAPTCHA 识别 分支长短 记忆 Long Short Term Memory LSTM 递归 神经网络 Recurrent Neural Network RNN 成功应用于 CAPTCHA 识别 LSTM RNN 实质上 一维 RNN 文本 CAPTCHA 二维图 RNN CAPTCHA 识别 RNN 很好 特征提取 识别 相结合较好 较好上下文 上下文特性 特性适合 文本 CAPTCHA 识别 进一步提高 识别 可靠性向量 Support vector machine SVM 策略 RNN 一维 RNN 更好 识别率 策略 更好

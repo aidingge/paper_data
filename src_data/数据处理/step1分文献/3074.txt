@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Tao ZHANG;Qing LI;Chang-shui ZHANG;Hua-wei LIANG;Ping LI;Tian-miao WANG;Shuo LI;Yun-long ZHU;Cheng WU;
+AD Department of Automation,Tsinghua University;Hefei Institute of Physical Science,Chinese Academy of Sciences;School of Control Science and Engineering,Zhejiang University;Robotics Institute,Beihang University;Shenyang Institute of Automation,Chinese Academy of Sciences;
+TP 智能无人自主系统发展趋势（英文）
+JF Frontiers of Information Technology & Electronic Engineering
+YR 2017
+IS 01
+OP 68-86
+K1 智能无人自主系统;无人车;人工智能;机器人学;发展趋势
+AB 智能无人自主系统是人工智能的重要应用之一,其发展可大大推动人工智能技术的创新。本文通过其主要成就介绍了智能无人自主系统的发展趋势。并且,本文将相关技术分成了7个领域,包括人工智能技术、无人车、无人机、服务机器人、空间机器人、海洋机器人和无人车间/智能工厂。本文对每个领域的发展趋势进行了介绍。
+SN 2095-9184
+CN 33-1389/TP
+LA 英文;
+DS CNKI

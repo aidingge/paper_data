@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 邓鹏华;毕义明;刘继方;
+AD 第二炮兵工程学院基础部;第二炮兵青州士官学校;
+TP 一种不确定作战决策效能评估模型及仿真
+JF 系统仿真学报
+YR 2009
+IS 23
+OP 7381-7385
+K1 效能评估;不确定作战决策;理想观察者分析;部分可观察马尔科夫决策过程;行动决策
+AB 针对直接评估不确定决策效能的困难,引入一种间接评估方法——理想观察者分析(Ideal Observer Analysis,IOA)方法,它通过定义最佳执行(Optimal Performance),用实际策略效用与OP效用值的差异表示决策效能。而在确定OP时又使用了部分可观察马尔科夫决策过程(Partially Observable Markov Decision Process,POMDP)模型。研究了用POMDP模型确定OP的方法,提出了一种行动决策方法。最后针对三状态"寻找并摧毁"型作战任务进行仿真验证,结果证明了此方法的有效性。
+SN 1004-731X
+CN 11-3092/V
+LA 中文;
+DS CNKI

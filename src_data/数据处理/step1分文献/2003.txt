@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 张闯;王文学;席宁;王越超;刘连庆;
+AD State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences;University of Chinese Academy of Sciences;Emerging Technologies Institute, Department of Industrial and Manufacturing Systems Engineering, University of Hong Kong;
+TP 类生命机器人发展与未来挑战
+JF Engineering
+YR 2018
+IS 04
+OP 53-77
+K1 类生命机器人;融合机器人;生物驱动器;心肌细胞;肌肉细胞
+AB 类生命机器人由活体生物系统与传统机电系统深度有机融合而成,具有高能量效率、高本质安全性、高灵敏度以及可自修复等潜在优点。由于类生命机器人具有单独生命体或者以机电系统为主体的传统机器人系统所不具备的特性,因此对其的研究已成为当今的热点,并且在近些年的研究中取得了一定的重要成果。本文系统地总结了类生命机器人的发展。首先,讨论了类生命机器人的潜在发展趋势。然后,回顾了现有类生命机器人的性能,其中包括机器人简单的运动以及运动速度和方向的控制特性。接下来讨论了现有类生命机器人所使用的活体生物材料和非生命材料以及相应的加工制造方法。而后,回顾了现有类生命机器人所采用的控制方法,其中包括物理及化学控制方法。最后,讨论了类生命机器人未来发展中在感知、驱动、智能、活体生物材料、非生命材料、控制方法及信息技术等方面所面临的关键挑战。
+SN 2095-8099
+CN 10-1244/N
+LA 中文;
+DS CNKI

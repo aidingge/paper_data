@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2016国际脑与人工智能研讨会（英文）
+JF 智能系统学报
+YR 2016
+IS 04
+OP 538
+K1 人工智能;研讨会;英文;
+AB <正>Creating human-level intelligent system is the long-standing mission for the field of Artificial Intelligence(AI)since its establishment nearly 60 years ago.Until now,however,there is still no general purpose intelligent system which can reach the human intelligence level in terms of coordinating various cognitive behaviors,adaptability of complex environ-
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

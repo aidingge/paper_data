@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 朱师师;臧林恩;
+AD 云南师范大学数学学院;
+TP 具零阶耗散的双成分Camassa-Holm方程的整体解和爆破现象
+JF 数学杂志
+YR 2017
+IS 01
+OP 152-168
+K1 双成分Camassa-Holm方程;零阶耗散;局部适定性;爆破;整体存在性
+AB 本文研究了具零阶耗散的双成分Camassa-Holm方程的Cauchy问题.由Kato定理得到局部适定性的结果,然后研究了解的整体存在性和爆破现象.
+SN 0255-7797
+CN 42-1163/O1
+LA 中文;
+DS CNKI

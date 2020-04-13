@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP Ross Video收购FX-Motion公司
+JF 电视技术
+YR 2012
+IS 06
+OP 20
+K1 产品家族;FX-Motion;遥控系统;远距离控制系统;控制系统;摄像机跟踪;机器人;人工智能;Ross Video;
+AB <正>2月8日,Ross Video宣布其成功收购了比利时FX-Motion机器人摄像机跟踪遥控系统公司。FX-Motion正式更名为Ross Robotics,成为Ross视频制作产品家族的新成员。Ross Video的CEO David Ross表示:"Ross的各个产品紧密结合构成了集成的工作流程,OverDrive自动化制作控制系统、切换台、XPression图形制作系统,现在我们有了Furio机器人摄像机系统,可以为客户提供更为完整的解决方案,并进一步推进现场制作技术的发展。"
+SN 1002-8692
+CN 11-2123/TN
+LA 中文;
+DS CNKI

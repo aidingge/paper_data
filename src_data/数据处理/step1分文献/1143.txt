@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Mojtaba HADI BARHAGHTALAB;Vahid MEIGOLI;Mohammad Reza GOLBAHAR HAGHIGHI;Seyyed Ahmad NAYERI;Arash EBRAHIMI;
+AD Department of Electrical Engineering, School of Engineering, Persian Gulf University;Department of Mechanical Engineering, School of Engineering, Persian Gulf University;Department of Communication, School of Electrical and Computer Engineering, Tehran University;Institute of Electrical Power Engineering, Faculty of Computer Science and Electrical Engineering IEF,Rostock University;
+TP 六自由度IRB-120机器人机械手的滑模控制与边界层控制（英文）
+JF Journal of Central South University
+YR 2018
+IS 09
+OP 2219-2244
+K1 机器人机械手控制;IRB-120机器人;滑模控制;带边界层的滑模控制;逆动态控制
+AB 由于线性PID控制器易于实现,一般采用其对机器人进行控制。线性控制器不能有效地处理不确定性和参数的变化,因此推荐具有鲁棒性能的非线性控制器。滑模控制(SMC)是一种针对非线性系统的鲁棒状态反馈控制方法,其设计简单,有效地克服了系统中的不确定性和扰动,它的瞬态响应非常快,是理想的控制器。SMC最主要的缺点是控制输入信号的抖动。为了解决这一问题,本文采用SMC与边界层(SMCBL)相结合的方法,消除了系统的抖振现象,提高了系统的性能。将所提出的SMCBL与传统的非线性控制方法逆动态控制(IDC)进行了比较。首先,对IRB-120机器人机械手的运动学方程和动力学方程进行了完整、准确的提取;然后,对采用SMC的机器人机械手的控制进行了评价。为了验证该控制方法的有效性,在一个6自由度IRB-120机器人机械手上使用了该控制方法。在MATLAB/Simulink环境下对仿真结果进行了仿真、测试和比较。为了进一步验证我们的工作,在一个实际的IRB-120机器人机械手上进行了测试和实验验证。
+SN 2095-2899
+CN 43-1516/TB
+LA 英文;
+DS CNKI

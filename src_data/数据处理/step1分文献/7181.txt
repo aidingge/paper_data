@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 杨雄里;
+AD 复旦大学脑科学研究院;
+TP 对中国脑科学研究的思考
+JF 科技导报
+YR 2013
+IS 35
+OP 3
+K1 脑科学;工作原理;脑研究;神经系统;神经科学;人工智能;中华人民共和国;
+AB <正>对脑(神经系统)的研究正在掀起新的高潮。美国的"脑计划"BRAIN(Brain Research through Advancing Innovative Neurotechnologies)Initiative,即最初提出的"脑活动图谱"(Brain Activity Mapping)项目的延伸和欧盟委员会启动的"人脑计划"(Human Brain Project,HBP),反映了国际社会对脑科学及相关学科研究的高度重视。脑科学研究的终极目标是阐明脑和神经系统的工作原理和机制,这通常被认为是自然科学的"最后疆域"(last frontier),它所蕴涵的科学意义以
+SN 1000-7857
+CN 11-1421/N
+LA 中文;
+DS CNKI

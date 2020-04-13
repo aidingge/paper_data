@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 刘蓓蕾;江铭炎;张振月;
+AD 山东大学信息科学与工程学院;
+TP 基于禁忌搜索的人工蜂群算法及其应用
+JF 计算机应用研究
+YR 2015
+IS 07
+OP 2005-2008
+K1 蜂群算法;禁忌搜索算法;禁忌表;邻域搜索;图像边缘检测
+AB 人工蜂群算法(artificial bee colony algorithm,ABC)是一种简单有效的群智能算法,通过蜜蜂之间的相互合作寻找最优解。禁忌搜索算法(tabu search algorithm,TS)是人工智能与局部邻域搜索算法的结合,具有非常好的全局寻优能力。为了提高ABC的搜索效率和全局寻优能力,结合TS,在ABC中增加一个禁忌表,提出了一种基于禁忌搜索的人工蜂群算法(artificial bee colony algorithm based on tabu search,TSABC)。通过对10个常用的标准测试函数进行实验,对TSABC算法进行了验证,并将其应用于图像边缘检测中。实验结果表明,TSABC取得了较好的优化效果,提高了寻优精度和收敛速度,边缘检测结果也更理想。
+SN 1001-3695
+CN 51-1196/TP
+LA 中文;
+DS CNKI

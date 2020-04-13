@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 第9届智能代理和人工智能国际会议（英文）
+JF 智能系统学报
+YR 2016
+IS 02
+OP 162
+K1 人工智能;智能代理;英文;
+AB <正>The purpose of the International Conference on Agents and Artificial Intelligence is to bring together researchers,engineers and practitioners interested in the theory and applications in the areas of Agents and Artificial Intelligence.Two simultaneous related tracks will be held,covering both applications and current research work.One track focuses on Agents,Multi-Agent Systems and Software Platforms,Distributed Problem Solving and Distributed AI in general.The other
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

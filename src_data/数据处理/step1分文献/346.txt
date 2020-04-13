@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 新设计
+JF 装饰
+YR 2018
+IS 02
+OP 10
+K1 游戏机;连接环;新加坡国立大学;机器人;任天堂;
+AB <正>任天堂Nintendo Labo电子游戏三巨头之一任天堂Nintendo出产的家用游戏机一向尊崇"合家欢"的理念,让所有人都可以参与到游戏机的乐趣之中,其最近推出的Nintendo Labo,在全世界的玩家中掀起了新一轮热潮。套装为一系列的瓦楞纸板模型,用户需要自己组装并配合Switch主机和Joy-Con控制手柄连接进行游戏。Switch游戏机2017年3
+SN 0412-3662
+CN 11-1392/J
+LA 中文;
+DS CNKI

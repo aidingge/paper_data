@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 陈钢;宋晓宇;顾明;
+AD Lingcore Laboratory,Portland;Department of ECE,Portland State University,Portland;清华大学软件学院;
+TP COQ定理证明器辅助PLC程序验证和分析
+JF 北京大学学报(自然科学版)
+YR 2010
+IS 01
+OP 30-34
+K1 可编程序控制器;PLC;嵌入式系统;COQ;定理证明
+AB 使用定理证明器COQ验证和分析PLC抢答器程序的一些性质,证明了原程序的所有可能状态中只有半数是可达状态,揭示了系统在可达状态之间的转移关系。基于这些性质,引入了逻辑自动机的概念作为对PLC程序行为完整抽象的描述。此外,在证明过程中,发现该程序中存在着一个很难通过现场测试发现的问题。
+SN 0479-8023
+CN 11-2442/N
+LA 中文;
+DS CNKI

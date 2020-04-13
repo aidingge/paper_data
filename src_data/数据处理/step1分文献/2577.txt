@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 金倩;阮倩倩;陈芬;罗桂杰;张爱兵;
+AD 江苏省农业科学院宿迁农科所;首都师范大学生命科学学院;
+TP DNA条形码专用R包及其主要功能简介
+JF 环境昆虫学报
+YR 2017
+IS 03
+OP 485-492
+K1 DNA条形码;R语言;SPIDER;BarcodingR
+AB S_(PIDER)和BarcodingR软件包作为DNA条形码研究的专用R软件包,整合了基于DNA条形码的物种识别算法和数据分析策略,避免了各种非商业用途软件的局限性,为DNA条形码的研究提供了便捷性和可操作性。本文对SPIDER和BarcodingR软件包的主要功能进行整体介绍,并以西藏夜蛾科COI、松毛虫属ITS等数据为例,进行主要函数的演示分析,希望为昆虫DNA条码的应用分析提供帮助。
+SN 1674-0858
+CN 44-1640/Q
+LA 中文;
+DS CNKI

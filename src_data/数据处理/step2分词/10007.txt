@@ -1,0 +1,1 @@
+ Mean Shift 自适应 步长 Mean Shift 算法 应用于计算机 计算机视觉 模式识别 统计迭代 算法 漂移 密度 函数 局部极大值 极大值均值 漂移 梯度方向 漂移 序列 函数 增加最快 步长 大小 自适应性 Mean Shift 算法 步长 自适应性 参数调整 优于 Mean Shift 算法收敛 收敛速度 理论上证明了 Mean Shift 算法收敛 进一步 验证 Mean Shift 算法 收敛性 Mean Shift 算法收敛

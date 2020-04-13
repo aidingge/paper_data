@@ -1,0 +1,1 @@
+ LevenbergMarquardt 算法 解释 LevenbergMarquard tLM 算法 最小 Least Square LS 关系 标度 总体最小 Scaled Total Least Square STLS 最小 Data Least Square DLS 总体最小 Total Least Square TLS统一 推广 LM算法 关系 尚不给出 STLS 算法 空间 解释 拓扑 解释 矩阵 分解揭示 LM算法 STLS 密切关系 阻尼 因子 LS STLS 噪声 空间 剔除系数 矩阵 件数控制 控制保证 LM算法 稳健性收敛 收敛速度 STLS 鲁棒性 保障 LM算法 

@@ -1,0 +1,1 @@
+ 作战 决策效能 评估 模型 仿真 评估 决策效能 困难引入 评估 理想观察者 Ideal Observer Analysis IOA定义 定义执行 Optimal Performance 策略 效用 OP 效用 差异 决策效能 OP 观察 马尔科夫 决策 Partially Observable Markov Decision Process POMDP 模型 POMDP 模型 OP 决策 状态寻找 寻找摧毁 作战 仿真验证 验证证明了

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 刘宇红;张明路;刘淑英;于江;
+AD 河北工业大学机械工程学院;河北理工大学机械工程学院;
+TP 基于Rao-Blackwellized粒子滤波器的FastSLAM算法研究与应用
+JF 河北工业大学学报
+YR 2009
+IS 03
+OP 37-40
+K1 机器人;同步定位;Rao-Blackwellized粒子滤波器;FastSLAM
+AB 通过对传统的基于扩展卡尔满滤波器(EKF)的SLAM算法的介绍,总结出传统方法的缺陷,即算法复杂,用时长,无法实现在线计算.为解决传统SLAM算法的缺陷,介绍了一种基于Rao-Blackwellized粒子滤波器的FastSLAM方法.该方法将SLAM问题分解为对机器人姿态和路标在地图中的位置的递归算法,其时间消耗与路标的数量成对数关系,计算量小,用时短.经过以Hebut-II机器人为平台的实验,结果表明,FastSLAM算法是可行的.
+SN 1007-2373
+CN 13-1208/T
+LA 中文;
+DS CNKI

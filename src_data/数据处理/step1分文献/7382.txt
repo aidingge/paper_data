@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 李秋洁;茅耀斌;王执铨;
+AD 南京理工大学自动化学院;
+TP CAPTCHA技术研究综述
+JF 计算机研究与发展
+YR 2012
+IS 03
+OP 469-480
+K1 全自动开放式人机区分图灵测试;人机交互验证;网络服务安全;人工智能;光学字符识别;图像理解;机器学习
+AB 全自动开放式人机区分图灵测试(completely automated public Turing test to tell computers and humans apart,CAPTCHA)又称为人机交互验证(human interactive proof,HIP),它能自动产生并评估一个测试,这个测试能被几乎所有人类用户通过,而现有的计算机程序不能通过.CAPTCHA提供了一种自动驱分人和机器的手段,已成为一种标准的网络安全技术成功应用于包括Google,Yahoo!以及微软在内的各大网站.CAPTCHA设计基于人工智能领域的开放性问题,按表现载体和内容不同分为文本、图像、声音3种类型,其中,基于字符识别的文本CAPTCHA已得到广泛使用;图像CAPTCHA利用计算机视觉中的难解问题,目前尚处于研究阶段;声音CAPTCHA针对视觉残障者,是对前两种视觉CAPTCHA的补充.介绍了CAPTCHA的发展和设计准则,详细阐述CAPTCHA设计和破解的研究工作及最新进展,给出典型实例,讨论其可用性和安全性,最后指出未来CAPTCHA技术的发展方向和亟待解决的问题.
+SN 1000-1239
+CN 11-1777/TP
+LA 中文;
+DS CNKI

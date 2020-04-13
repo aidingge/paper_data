@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 王昕凝;祖强;黄双;卢锦山;董隽;
+AD 中国人民解放军总医院泌尿外科;
+TP 后腹腔镜、机器人腹腔镜、机器人后腹腔镜肾部分切除术的比较:单一术者经验
+JF 中国微创外科杂志
+YR 2018
+IS 10
+OP 874-877+898
+K1 肾部分切除术;肾肿瘤;机器人;腹腔镜
+AB 目的比较机器人辅助腹腔镜肾部分切除术(robotic-assist laparoscopic partial nephrectomy,RALPN)、机器人辅助后腹腔镜肾部分切除术(robotic-assist retroperitoneal laparoscopic partial nephrectomy,RARPN)及传统后腹腔镜肾部分切除术(retroperitoneal laparoscopic partial nephrectomy,LPN)的疗效及安全性。方法回顾性分析2013年8月～2017年8月单一术者使用da Vinci机器人系统及Storz腹腔镜系统进行372例肾部分切除术的临床资料。其中RALPN 138例,RARPN 46例,LPN 188例。比较3组手术时间、术中失血量、肾动脉热缺血时间、术后并发症发生率及术后肿瘤复发转移率。结果 3组手术时间分别为(122.3±30.9)min、(112.5±28.7)min、(114.8±34.5)min,无统计学差异(F=2.682,P=0.070)。3组肾动脉阻断时间分别为(20.8±5.9)min、(19.4±5.1)min、(23.7±6.8)min(F=13.025,P=0.000),RALPN和RARPN明显短于LPN(P<0.05)。3组术中失血量分别为(89.0±76.9)ml、(42.9±40.3)ml、(55.2±86.6)ml(F=9.644,P=0.000),RALPN明显多于RARPN和LPN(P<0.05)。LPN组术中输血1例,RALPN及RARPN组均无术中输血。3组术后并发症发生率及术后肿瘤复发转移率无统计学差异(P>0.05)。结论机器人辅助腹腔镜手术及机器人辅助后腹腔镜手术均为安全、有效的手术方式。
+SN 1009-6604
+CN 11-4526/R
+LA 中文;
+DS CNKI

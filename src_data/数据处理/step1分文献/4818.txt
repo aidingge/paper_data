@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 王启春;繆嘉敏;徐啸顺;周伟明;
+AD 上海通用汽车有限公司;
+TP 给FANUC CNC集成FANUC ROBOT的改造案例
+JF 制造技术与机床
+YR 2015
+IS 07
+OP 171-175
+K1 FANUC CNC;FANUC ROBOT;D表;接口信号
+AB 一条汽车变速箱机加工自动化生产线由于产品工艺升级,需要在原来生产线中增加一个MT5工位完成相关加工工艺。该MT5工位的整体方案是改造一台退役的德国GROB BZ400型FANUC系统CNC加工中心,集成FANUC ROBOT从滚道上取放工件给加工中心自动上下料。另外,由于上料工位LD1控制整线滚道并与各加工工位通讯,MT5工位也同样与LD1工位保持通讯,保持原有的全线自动化生产控制功能。
+SN 1005-2402
+CN 11-3398/TH
+LA 中文;
+DS CNKI

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 张丽;赵春霞;
+AD 南京理工大学计算机科学与技术学院;
+TP 一种基于迭代EKF的FastSLAM算法
+JF 山东大学学报(工学版)
+YR 2012
+IS 04
+OP 41-47
+K1 FastSLAM2.0算法;迭代EKF;IFastSLAM算法
+AB 针对在传统的快速地图创建和同时定位算法(fast simultaneous location and map building,FastSLAM)中采用扩展卡尔曼滤波器(extend Kalman filter,EKF)来估计机器人位姿和地图创建所带来的线性化误差的问题,本研究提出了一种基于迭代EKF的FastSLAM2.0算法———IFastSLAM算法。该算法将迭代思想运用到EKF中,同时采用迭代EKF来估计粒子从而完成机器人地图创建和自身定位。实验结果证明,该算法提高了粒子的估计精度从而减缓粒子退化问题,并更好的维持了地图的一致性。
+SN 1672-3961
+CN 37-1391/T
+LA 中文;
+DS CNKI

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 胡艮胜;岳师光;邱晓刚;赵凯;
+AD 中国人民解放军31002部队;
+TP 联合作战分析仿真系统建设运用重难点问题分析
+JF 系统仿真学报
+YR 2018
+IS 12
+OP 4636-4642
+K1 联合作战;作战分析仿真系统;模型VV&A机制;协同工作模式
+AB 分析了联合作战分析仿真系统建设运用中运行效率、模型体系、行为建模、系统运用等方面问题的重要性和产生原因,在此基础上探讨了如何运用高性能仿真引擎、以C4ISR(Command,Control, Communication, Computer, Intelligence, Surveillance, Reconnaissance,指挥、控制、通信、计算机、情报、监视、侦察)为核心的体系建模、人工智能和作战实验等技术解决上述问题,提出了"两线三层"模型VV&A (Verification, Validation and Accreditation,校核、验证与确认)机制、"三位一体"协同工作模式和标准化仿真分析应用流程,为未来联合作战仿真系统建设与运用提供参考。
+SN 1004-731X
+CN 11-3092/V
+LA 中文;
+DS CNKI

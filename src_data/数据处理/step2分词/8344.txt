@@ -1,0 +1,1 @@
+ 机器人 蒙特卡罗 定位 算法 粒子 滤波 粒子 退化 粒子 细化 机器人 蒙特卡罗 定位 Improved Robust Robot Monte Carlo localization IRRMCL 算法 扩展 卡尔曼滤波 精确 粒子 滤波器提议 提议分布 分布观测 观测信息 信息融入 融入顺序 重要性 采样 改善 滤波 效果减小 减小所需 所需粒子数 粒子数给出 IRRMCL 定位 算法 细节 算法

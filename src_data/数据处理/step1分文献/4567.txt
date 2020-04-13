@@ -1,0 +1,14 @@
+RT Journal Article
+SR 1
+A1 张冬梅;闫蓓;
+TP 对话周志华教授:关于人工智能和机器学习
+JF 科学通报
+YR 2017
+IS 33
+OP 3800-3801
+K1 人工智能;威胁论;周志华;机器学习;人工智能领域;
+AB <正>2016年3月"阿尔法狗"(Alpha Go)围棋程序对战世界围棋冠军、职业九段选手李世石,并以4:1的总比分获胜,吸引了全世界的关注,社会舆论为之哗然.2017年10月19日,阿尔法狗的研发团队、谷歌旗下的Deep Mind的最新研究成果以"Mastering the game of Go without human knowledge"为题发表于Nature,再次引起轰动.报道称新一代的阿尔法元(Alpha Go Zero),完全从零
+SN 0023-074X
+CN 11-1784/N
+LA 中文;
+DS CNKI

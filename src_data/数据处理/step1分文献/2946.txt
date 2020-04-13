@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 王伟;陈跃东;陈孟元;
+AD 安徽工程大学安徽省电气传动与控制重点实验室;
+TP 基于IAPF与多层Morphin搜索树的移动机器人路径规划
+JF 电子测量与仪器学报
+YR 2017
+IS 02
+OP 302-308
+K1 改进人工势场法;多层Morphin搜索树算法;路径规划
+AB 针对传统人工势场法(artificial potential field,APF)的易出现振荡、死区、局部极小值等缺陷。提出一种结合机器人位置、速度、加速度及障碍物位置等信息的改进人工势场法(improved artificial potential field,IAPF)。利用Morphin算法计算效率高、易结合全局路径规划算法的优点,提出一种多层Morphin搜索树算法。首先,利用改进人工势场法完成路径的全局规划,在此基础上在障碍物附近用多层Morphin搜索树算法进行路径规划。利用MATLAB仿真测试表明,所提出的改进人工势场法与多层Morphin搜索树的混合算法,在移动机器人自主路径规划中,能有效缩短路径长度,提高到达目标点的效率,高效完成路径规划。
+SN 1000-7105
+CN 11-2488/TN
+LA 中文;
+DS CNKI

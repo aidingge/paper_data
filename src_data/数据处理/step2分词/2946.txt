@@ -1,0 +1,1 @@
+ IAPF Morphin 搜索 移动机器人 路径规划 artificial potential field APF振荡 振荡死区 死区局部 局部极小值 极小值缺陷 缺陷机器人 位置 速度加速度 障碍物 位置 信息 improved artificial potential field IAPF Morphin 算法 效率高 全局 路径规划 算法 优点 Morphin 搜索 算法 路径 全局 规划 障碍物 Morphin 搜索 算法 路径规划 MATL 仿真 测试表明 Morphin 搜索 混合 算法 移动机器人 自主 路径规划 缩短 路径 长度 到达目标 目标效率 

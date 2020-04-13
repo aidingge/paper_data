@@ -1,0 +1,1 @@
+ 线段 匹配 EKFSLAM 算法 EKFSLAM 算法 机器人绑架 失效 线段 匹配 EKFSLAM 算法 EKFLineSLAM 算法 线段 观测模型 模型逐点 逐点搜索 线段 提取 算法 线段 匹配 引入 EKFSLAM 算法 线段 长度 姿态EKF EKF更新 更新创建 环境 线段 地图未知 未知室内 结构化环境 算法 匹配 EKFLineSLAM 算法 验证 EKFLineSLAM 算法 结构化环境 克服 机器人绑架 可行性

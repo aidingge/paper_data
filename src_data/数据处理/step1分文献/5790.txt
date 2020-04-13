@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 第28届AAAI人工智能会议(英文)
+JF 智能系统学报
+YR 2014
+IS 01
+OP 18
+K1 人工智能会议;AAAI;英文;
+AB <正>The Twenty-Eighth AAAI Conference on Artificial Intelligence(AAAI-14)will be held July 27—31,2014 in Québec City,Québec,Canada.The purpose of this conference is to promote research in artificial intelligence(AI)and scientific exchange among AI researchers,practitioners,scientists,and engineers in affiliated disciplines.AAAI-14 will have a diverse technical track,student abstracts,poster sessions,invited speakers,tutorials,workshops,and exhibit/competition programs,all selected according to the highest reviewing standards.AAAI-14 welcomes submissions on mainstream AI topics as well as novel crosscutting work in related areas.
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2012年第2届IEEE云计算与智能系统国际会议
+JF 智能系统学报
+YR 2012
+IS 03
+OP 194
+K1 IEEE;智能系统;
+AB <正>2012年第2届IEEE云计算与智能系统国际会议(2nd IEEE CCIS2012)将于2012年10月30日—11月1日在杭州召开.会议由IEEE北京分会和中国人工智能学会主办,大会主席由中国人工智能学会理事长李德毅院士(中国工程院院士),美国明尼苏达大学David H.C.Du教授(IEEE Fellow),CISCO Fred Baker博士(CISCO Fel-low)和北京邮电大学杨放春教授(IET Fellow)共同担任.
+SN 1673-4785
+CN 23-1538/TP
+LA 中文;
+DS CNKI

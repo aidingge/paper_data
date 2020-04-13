@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 曹鹏浩;张红玉;
+AD 河北师范大学数学与信息科学学院;
+TP 关于Minkowski定理证明的注记
+JF 河北师范大学学报(自然科学版)
+YR 2009
+IS 04
+OP 434-436
+K1 Blichfeldt定理;Minkowski定理;格点;平移
+AB 在用Blichfeldt定理证明Minkowski定理的过程中,对于格点对称性及直线斜率的存在性没有进行讨论,对其中遗漏的2种情形进行了补充讨论,从而改进了原有的证明.
+SN 1000-5854
+CN 13-1061/N
+LA 中文;
+DS CNKI

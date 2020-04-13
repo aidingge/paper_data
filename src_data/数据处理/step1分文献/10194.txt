@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 李芳;陈南;
+AD 东南大学机械工程学院;
+TP 多Agent系统的研究进展及其在机械制造领域的应用
+JF 制造业自动化
+YR 2009
+IS 01
+OP 75-77
+K1 Agent;多Agent系统;FIPA规范
+AB Agent技术和多Agent系统是目前学术和工程领域的研究热点,在越来越广泛的领域得到了应用。本文首先对Agent技术的概念和特点进行了总结,介绍了Agent和多Agent系统的体系结构、程序设计语言及其开发工具的发展历程,并叙述了目前最广为接受的Agent建立规范——FIPA(Foundation for Intelligent Physical Agents)规范。进而对国内外开发的多Agent系统开发平台进行了总结,并分析了目前多Agent系统在机械制造领域的应用状况,最后对其发展趋势进行了展望。
+SN 1009-0134
+CN 11-4389/TP
+LA 中文;
+DS CNKI

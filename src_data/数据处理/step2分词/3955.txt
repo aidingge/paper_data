@@ -1,0 +1,1 @@
+ 高精度 自适应小波 神经网络 探索训练 精度 瓶颈 智能系统 高精度 迫切 需求 小波 BP propagation RBF radial basis function 神经网络 优点 自适应小波 神经网络 adaptive wavelet neural network AWNN 应用于智能 视频 智能控制 验证 AWNN 更好 收敛性准确性 精度 AWNN 经典 神经网络 理论计算机 仿真 验证 提升 经典 神经网络 速度 精度 AWNN 植入真实 视频 验证 AWNN 现有 视频 相比准确 准确内容 内容分类 分类最终 AWNN 经典 控制 相结合 现有 神经网络 控制 验证 AWNN 控制 更好

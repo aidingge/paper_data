@@ -1,0 +1,1 @@
+ 分布局部 学习 Domain adaptation learning DAL分布 分布局部 学习机 Kernel distribution consistency based local domaina daptation classifier KDCLDAC 通用再生 Hilbert 空间 Universally reproduced kernel Hilbert space URKHS 结构风险 风险最小化 最小化模型 KDCLDAC 学习 分布 正则向量 Support vector machine SVM 目标 划分 局部 学习 思想 目标 类别信息 局部 回归重构 学习 类别信息 目标 训练 学习 适于 目标 判别分类器 结果显示 优化

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 王振江;
+AD Delcam(中国)上海办事处;
+TP PowerMILL Robot Interface离线编程系统
+JF 制造技术与机床
+YR 2012
+IS 03
+OP 148-149
+K1 离线编程系统;机器人;人工智能;PowerMILL Robot Interface;
+AB <正>近年来机器人在世界上很多国家都逐渐得到应用,鉴于人工智能技术尤其是仿生技术还不太成熟,机器人的应用主要还是集中在工业生产制造领域。包括我们中国在内的不少先进制造企业也陆陆续续引入了工业机器人,机器人的
+SN 1005-2402
+CN 11-3398/TH
+LA 中文;
+DS CNKI

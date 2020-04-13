@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 欧姆龙亮相CIIF201
+JF 制造技术与机床
+YR 2015
+IS 12
+OP 162
+K1 欧姆龙;工博会;CIIF201;机器人;人工智能;
+AB <正>欧姆龙携"i-Automation"理念亮相工博会的工业自动化展区,为广大制造企业展示了全方位的自动化技术、产品、智能化解决方案和售后服务。"i-Automation"理念,是以领先的传感与控制技术,结合大数据协助制造企业打造人与机器能够默契协作的智能工厂。在本次工博会上,欧姆龙以"information"(信息),"intelligence"(智能),"innovation"(革新)三大展区全面展示
+SN 1005-2402
+CN 11-3398/TH
+LA 中文;
+DS CNKI

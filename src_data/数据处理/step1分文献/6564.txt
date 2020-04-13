@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 丁士锋;
+AD 中南大学数学与统计学院;
+TP Grannell-Griggs-Murphy定理的改进
+JF 高校应用数学学报A辑
+YR 2013
+IS 01
+OP 81-85
+K1 Grannell-Griggs-Murphy定理;设计;Weil定理
+AB 利用Weil型特征标和数估计,证明Grannell-Griggs-Murphy定理对于一切满足q≡7(mod 12)的素数幂q成立,改进了现有文献中所得到的定理对于不超过75079的12n+7型素数p成立的结论.
+SN 1000-4424
+CN 33-1110/O
+LA 中文;
+DS CNKI

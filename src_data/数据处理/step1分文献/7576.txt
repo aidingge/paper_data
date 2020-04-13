@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 数学问题解答
+JF 数学通报
+YR 2012
+IS 06
+OP 58-62
+K1 延长线;数学通报;问题解答;等角线;
+AB <正>2012年5月号问题解答(解答由问题提供人给出)2061已知:如图,△ABC(AB>AC)内接于⊙O,弦EF∥BC,FA的延长线交BC的延长线于D1,EA的延长线交BC的延长线于D2,BM为△ABC的中线,延长BM交AD1于P1,交AD2于P2.
+SN 0583-1458
+CN 11-2254/O1
+LA 中文;
+DS CNKI

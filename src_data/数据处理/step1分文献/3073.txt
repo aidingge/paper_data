@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Hao FANG;Shao-lei LU;Jie CHEN;Wen-jie CHEN;
+AD School of Automation,Beijing Institute of Technology;State Key Laboratory of Intelligent Control and Decision of Complex Systems;
+TP 基于面向任务的协同特征向量的联盟形成算法（英文）
+JF Frontiers of Information Technology & Electronic Engineering
+YR 2017
+IS 01
+OP 139-149
+K1 协同向量;任务分配;多智能体系统;联盟形成;人工智能
+AB 联盟形成是多智能体系统中一个重要的协同问题,对智能体的协同能力进行适当的描述是处理这个问题的一个基本且必要的前提。这篇文章对智能体的协同能力进行了建模,该模型由五个影响因素构成。同时,对任务需求向量进行了描述。提了一种随机机制以减少联盟形成过程中的过度竞争。此外,为了减少任务需求和实际任务需求之间的差距,提出了一种人工智能方法,该方法可以提高多智能体对人类指令的认知。实验结果显示了该模型及分布式人工智能方法的有效性。
+SN 2095-9184
+CN 33-1389/TP
+LA 英文;
+DS CNKI

@@ -1,0 +1,1 @@
+ 用于 战术意图 识别 动态 序列贝叶斯 贝叶斯网络 意图 规划层次性 序列 序列贝叶斯 贝叶斯网络 series Bayesian network SBN 模型 动态 贝叶斯网络 dynamic Bayesian network DBN 模型 SBN 模型 动态 SBN dynamic SBN DSBN 模型 规划识别 模型 DBN 用于序列 推理意图 SBN 用于序列 意图 逐层推理 推理意图 推导 模型 算法 模型 规划识别 识别表达 表达推理 DSBN 模型 序列 识别

@@ -1,0 +1,1 @@
+ 编译 嵌入式 计算机视觉 系统设计 开发 编译 低成本模块化 嵌入式 计算机视觉 CVInnovator 硬件 嵌入式 处理器 全志双核 双核ARM CortexA So System Chip 片上 CMOS 摄像头 OV采集 实时 图像cm TFTLCD 显示屏 USB键盘 鼠标 友好 人机交互 软件 CVInnovator 嵌入式 Linux 操作系统 嵌入式 Linux 环境 开发 运行 Open CVQt 计算机视觉 应用程序 样机 试制 人脸检测 示例 应用程序 CVInnovator 预期 应用于 高校 计算机 电子信息 自动化 专业本科

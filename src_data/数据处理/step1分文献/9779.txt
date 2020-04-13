@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 张鸿燕;耿征;
+AD 中国科学院自动化研究所复杂系统与智能科学重点实验室;
+TP Levenberg-Marquardt算法的一种新解释
+JF 计算机工程与应用
+YR 2009
+IS 19
+OP 5-8
+K1 标度总体最小二乘;Levenberg-Marquard(tLM)算法;计算机视觉
+AB Levenberg-Marquard(tLM)算法与最小二乘(Least Square,LS)方法关系密切,标度总体最小二乘(Scaled Total Least Square,STLS)是最小二乘,数据最小二乘(Data Least Square,DLS)与总体最小二乘(Total Least Square,TLS)的统一与推广,但是它与LM算法的关系尚不清楚。给出了一种求STLS解的算法及其子空间解释与拓扑解释,利用矩阵分解揭示了LM算法与STLS的密切关系,结果表明:阻尼因子使得LS解转变为STLS解;噪声子空间的剔除与系数矩阵条件数的控制保证了LM算法的稳健性与收敛速度;STLS的鲁棒性保障了LM算法处理过参数化问题的能力。
+SN 1002-8331
+CN 11-2127/TP
+LA 中文;
+DS CNKI

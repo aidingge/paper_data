@@ -1,0 +1,1 @@
+ 计算机视觉 带式输送机 跑偏监测 带式输送机 胶带运行 中易 跑偏 情况 计算机视觉 输送带 跑偏监测 视频 监控采集 视频 图像 设置感兴趣 感兴趣区域 Region Interest ROI 图像 预处理 Canny 边缘 检测算法 ROI 边缘 图像 累计概率 概率霍夫 变换 Progressive Probabilistic Hough Transform PPHT 提取 输送带 边缘 直线 所得 直线 判断

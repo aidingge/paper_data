@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 周彦;李雅芳;王冬丽;裴廷睿;
+AD 湘潭大学信息工程学院;
+TP 视觉同时定位与地图创建综述
+JF 智能系统学报
+YR 2018
+IS 01
+OP 97-106
+K1 计算机视觉;同时定位与地图创建;VSLAM;机器人;滤波;图优化;综述;深度学习
+AB 同时定位与地图创建(simultaneous localization and mapping,SLAM)自1986年提出以来一直是机器人领域的热点问题,被认为是实现真正全自主移动机器人的关键。其目的是让机器人在未知环境下实现自身定位同时创建出环境地图。视觉SLAM(visual simultaneous localization and mapping,VSLAM)是仅用相机作为传感器的定位与制图。随着计算机视觉和机器人技术的发展,VSLAM已成为无人系统领域的研究焦点。本文对VSLAM的最新研究现状进行总结,阐述了VSLAM中的主要问题,分别介绍了VSLAM基于滤波和图优化的实现方法,并探讨了VSLAM的研究与发展方向。
+SN 1673-4785
+CN 23-1538/TP
+LA 中文;
+DS CNKI

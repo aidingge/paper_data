@@ -1,0 +1,1 @@
+ 角度观测 观测信息 leaderfollowers 机器人 编队 控制算法 角速度 控制 反馈控制 卡尔曼滤波 数学模型 MATL 矩阵代数 机器人 轨迹速度 编队控制 leaderfollowers 编队控制 观测 移动机器人 无迹 卡尔曼滤波 无迹 卡尔曼滤波 算法 输入输出 反馈控制 规律 角度观测 观测信息 leaderfollowers 机器人 编队控制 控制跟随 机器人 followers 观测 领航 机器人 leader 角度 信息 观测 理论 角度观测 观测信息 leaderfollowers 观测 无迹 卡尔曼滤波 算法 leaderfollowers 机器人 状态估计 状态估计 输入输出 状态 反馈控制 规律 控制跟随 机器人 运动 理想 编队 效果仿真 仿真验证

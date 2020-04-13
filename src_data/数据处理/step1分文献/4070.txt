@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2016国际人工智能联合会议（英文）
+JF 智能系统学报
+YR 2016
+IS 01
+OP 26
+K1 人工智能;联合会议;英文;
+AB <正>July 9th-15th,2016,New York City,NY,USAWe are delighted to invite you to come to New York,one of the most exciting cities of the world,and take part in IJCAI,the leading conference on the thrilling field of Artificial Intelligence.AI today has a tremendous impact.It is in all the media and makes a real difference.At IJCAI-16,you will have the opportunity to meet some of the world's leading AI researchers,to learn first-hand about their newest research results and developments,and to catch up with current AI trends in science and industry.And,of course,IJCAI-16 will be the perfect forum for presenting your own achievements,
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Hossein REZAEI;Ramli NAZIR;Ehsan MOMENI;
+AD Faculty of Engineering, Lorestan University;Department of Geotechnics and Transportation, Faculty of Civil Engineering, Universiti Teknologi Malaysia;
+TP 基于人工智能的薄壁浅地基的承重能力研究(英文)
+JF Journal of Zhejiang University-Science A(Applied Physics & Engineering)
+YR 2016
+IS 04
+OP 273-285
+K1 薄壁地基;沙;承重能力;人工神经网络;粒子群优化
+AB 目的:薄壁扩展式地基已被广泛应用于土壤强度相对较低的沿海工程。目前,已有很多学者对其进行了人工神经网络的适用性研究,希望用此对地基的承重能力进行预测。但是这些研究多数是基于传统的人工神经网络,学习速度慢且受困于局部极小值。本文拟提出一种改进的基于人工神经网络的预测薄壁浅地基承重能力的模型。方法:1.整合145组关于地基承重测试的文献数据和实验数据(包括承重能力、摩擦角、沙的单位重量、基脚宽度和长宽比等);除了承重能力,其他参数都是模型输入;2.研究各参数对地基承重能力的影响,确定最优的人工神经网络模型参数,并对不同的人工神经网络模型进行比较。结论:1.当基脚长宽比从0.5变为1.12时,地基的承重能力增加了大约一半;2.基于粒子群优化算法的人工神经网络模型表现最好;在测试数据中,承重能力的预测值和测量值之间高达0.98的相关系数也表明,在无粘性土中,基于人工神经网络的预测模型适用于薄壁浅地基的承重能力预测。
+SN 1673-565X
+CN 33-1236/O4
+LA 英文;
+DS CNKI

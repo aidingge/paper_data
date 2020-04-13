@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP SCI收录的International Journal of Robotics Research(《国际机器人研究杂志》)介绍
+JF 中国组织工程研究
+YR 2012
+IS 22
+OP 4048
+K1 杂志;International Journal of Robotics Research;SCI;机器人;人工智能;英文刊名;
+AB <正>英文刊名:International Journal of Robotics Research中文刊名:《国际机器人研兄杂志》ISSN:0278-3649影响因子:4.095出版周期:14期/年出版数据:93篇/年出版单位(或出版地):
+SN 1673-8225
+CN 21-1581/R
+LA 中文;
+DS CNKI

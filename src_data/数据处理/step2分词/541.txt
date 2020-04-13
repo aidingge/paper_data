@@ -1,0 +1,1 @@
+ OpenCV 家庭 入侵检测 视频 监控 自动化 智能化 自动检测 家庭环境 入侵者 嵌入式 硬件 包括 嵌入式 主板摄像头 模块 软件 层面开源 计算机视觉 Open Computer Vision Open CV 入侵检测 算法 步骤 梯度 直方图 Histogram Oriented Gradient HOG 算法 Haarlike 算法 减小外界 外界自然 光线强度 强度变化 变化误报 概率 相关性 改变 阀值 补偿 控制 物联网 监控 报警 执行预定义 计算机视觉 数字图像处理 算法 智能家居 监控

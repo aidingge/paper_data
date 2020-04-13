@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2018年人工智能与云计算大会(AICCC 2018)（英文）
+JF 智能系统学报
+YR 2018
+IS 05
+OP 782
+K1 AICCC 2018;
+AB <正>2018 Artificial Intelligence and Cloud Computing Conference(AICCC 2018)will be held during 21–23 December,2018 in Tokyo,Japan.This conference is meant for researchers from academia,industries and research&development organizations all over the globe interested in the areas of Artificial Intelligence and Cloud Computing.It will put special emphasis on the participations of Ph D students,Postdoctoral fellows and other young researchers from
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

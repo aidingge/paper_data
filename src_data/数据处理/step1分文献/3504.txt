@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP Facebook建立第四个AI实验室
+JF 传媒
+YR 2017
+IS 19
+OP 7
+K1 Facebook;人工智能;实验室;AI;
+AB <正>9月15日,继Alphabet和Microsoft之后,Facebook也投资了本土人工智能领域,并计划正式宣布Facebook在加拿大蒙特利尔市的第四个人工智能研究实验室,AI在Facebook中的应用相当广泛,Facebook正在积极开发人工智能新的应用方法。Facebook的首席执行官马克·扎克伯格(Mark Zuckerberg)表示:"我们对人工智能的目标是建立比人类的视觉、听觉、语言等方面还要好的系统。"
+SN 1009-9263
+CN 11-4574/G2
+LA 中文;
+DS CNKI

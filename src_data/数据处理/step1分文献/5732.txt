@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 王田苗;陈殿生;陶永;李剑;
+AD 北京航空航天大学机器人研究所;
+TP 改变世界的智能机器——智能机器人发展思考
+JF 科技导报
+YR 2015
+IS 21
+OP 16-22
+K1 robot;Intelli Sense;cloud computing;micro-nano manufacturing;biological materials;intelligent traffic system;industrialization
+AB 随着云计算、大数据、智能感知、微纳制造、生物材料、智能交通等高新技术的深入发展,智能机器即智能机器人作为世界经济与产业增长方式转变过程中的关键因素,正在进入新的发展阶段。本文从智能机器人的需求和背景出发,介绍工业机器人、家用服务机器人、特种服务机器人的定义和发展现状,分析未来智能机器人的前沿技术发展和产业化趋势。
+SN 1000-7857
+CN 11-1421/N
+LA 中文;
+DS CNKI

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 王永翔;赵立明;米登海;
+AD 甘肃省第二人民医院泌尿外科;
+TP 机器人辅助腹腔镜下前列腺癌根治术的研究现状
+JF 临床泌尿外科杂志
+YR 2011
+IS 07
+OP 558-560
+K1 腹腔镜;机器人;前列腺癌根治术
+AB 在过去的10年中,随着机器人手术系统的不断改进及应用的拓宽.机器人辅助腹腔镜下前列腺癌根治术(robot- assisted laparoscopic prostatectomy.RALP)的报道迅速增多.仅2009年全球超过了60.000例.占前列腺癌根治术的70%,在前列腺高发的美国及欧洲大部分等国家.RALP几乎取代了单纯腹腔镜下前列腺癌根治术(laparoscopic radical prostatectomy,LRP)和传统开放耻骨后前列腺癌根治术(radical retropubic prostalect-omy,RRP),有着广泛的应用前景。
+SN 1001-1420
+CN 42-1131/R
+LA 中文;
+DS CNKI

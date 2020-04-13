@@ -1,0 +1,1 @@
+ 均匀分布 机器人归航 分布 局部 特征提取 算法 提取结构化 环境 符合 分布 局部 自然 路标 机器人 路标 高精度 视觉 归航 SIFT scale invariant feature transform 算法 为基础 改善 局部 分布均匀 UDSIFT uniform distributionSIFT 算法 评价标准 局部 分布均匀 评估全景 视觉 ADV average displacement vector ALV average landmark vector 室内走廊 走廊室外 环境 归航 相对于原始 SIFT 算法 UDSIFT 算法 归航 平均误差 误差降低 算法 改善 均匀分布 状况 机器人归航 

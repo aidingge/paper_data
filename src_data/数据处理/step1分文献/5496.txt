@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 雷伟琦;张东;刘莱蓬;严国强;胡小云;
+AD 南昌大学第二附属医院胃肠外科;
+TP 机器人与腹腔镜直肠癌全系膜切除术近期疗效对比的Meta分析
+JF 实用医学杂志
+YR 2016
+IS 17
+OP 2903-2907
+K1 直肠肿瘤;机器人;腹腔镜;全直肠系膜切除术;Meta分析
+AB 目的:比较达芬奇机器人辅助手术与腹腔镜辅助手术治疗直肠癌的近期疗效。方法:计算机检索国内外数据库,收集2010年10月至2015年10月公开发表的有关机器人辅助直肠癌全系膜切除术(robot assisted total mesorectal excision,RTME)和腹腔镜直肠癌全系膜切除术(laparoscopic total mesorectal excision,LTME)在直肠癌根治术疗效对比的中英文文献,筛选文献、提取资料后,利用Review Manager 5.3统计软件行Meta分析。结果:共纳入10篇文献总计2 044例,RTME组共930例,LTME组共1 114例。Meta分析结果表明,RTME组较LTME组手术时间长(WMD=51.19,95%CI=18.95~83.43,P=0.002)、中转开腹率低(OR=0.19,95%CI=0.08~0.48,P=0.000 4)、远端切缘距离略短(WMD=-0.16,95%CI=-0.31~-0.01,P=0.03)、术后3个月及6个月国际勃起功能评分(international index of erectile function,IIEF-5)高(WMD=3.90,95%CI=2.27~5.53,P<0.000 01),在住院时间、术中出血量、获得淋巴结数目、术后首次通气时间、术后并发症(术后吻合口瘘、切口并发症、肠梗阻、尿潴留)、术后3个月国际前列腺症状评分(international prostate symptom score,IPSS)等方面差异无统计学意义(P>0.05)。结论 :RTME与LTME治疗直肠癌近期疗效近似,较为安全、可行。
+SN 1006-5725
+CN 44-1193/R
+LA 中文;
+DS CNKI

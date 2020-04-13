@@ -1,0 +1,1 @@
+ 机器人 分散重复 重复学习 轨迹跟踪 控制 误差 放大 误差 饱和 函数 重复学习 学习控制 Repetitive control RC 机器人 动力学 控制 分散重复 重复学习 学习控制 Nonlinear decentralized repetitive control NRC增加 增加驱动力 条件 更快 响应速度 更高 轨迹跟踪 精度 Lyapunov 稳定性 理论 LaSalle 不变性原理 原理证明了 闭环 全局渐近 稳定性 三自 机器人 数值仿真 分散重复 重复学习 学习控制 控制

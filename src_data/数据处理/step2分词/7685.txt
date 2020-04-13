@@ -1,0 +1,1 @@
+ AIESTATE 智能 诊断系统 测试环境 交换标准 AIESTATE 规范 测试环境 智能 诊断知识 描述 诊断知识 可互换重用 共享 AIEATATE 广义 测试环境 诊断信息 标准化 描述 封装规范 标准 AIEATATE 诊断系统 互操作性 可移植性 论文综述 AIESTATE 诊断信息 模型讨论 AIESTATE 建模成果 成果UML AIESTATE 建模ATS 诊断信息 共享 诊断模型 标准化

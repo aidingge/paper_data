@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 第29届加拿大人工智能会议（英文）
+JF 智能系统学报
+YR 2015
+IS 05
+OP 819
+K1 人工智能会议;英文;Vision;加拿大;北美洲;
+AB <正>The 29th Canadian Conference on Artificial Intelligence will be held from May 31st to June 3rd 2016 in Victoria,BC,on the west coast of Canada.The event is collocated with the Canadian Graphics Interface and the Computer and Robot Vision conferences.These events will bring together hundreds of leaders in research,industry,and government,as well as Canada’s most accomplished students,to showcase Canada’s ingenuity,innovation and leadership in intelligent systems and advanced information and communications tech-
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

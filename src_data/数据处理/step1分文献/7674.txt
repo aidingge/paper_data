@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Ferreira T V;Germano A D;Silva K M;Costa E G;
+AD Department of Electrical Engineering,Federal University of Campina Grande,Campina Grande;Institute for High Voltage Technology and Power Transmission,Technische Universitt München;Department of Electrical Engineering,University of Brasília;
+TP 超声波与人工智能在现场绝缘诊断中的应用(英文)
+JF 高电压技术
+YR 2012
+IS 08
+OP 1842-1847
+K1 insulation;ultrasound;spectral compression;diagnosis;pollution;online;non-invasive
+AB This work studies the feasibility of implementing a system for diagnosis of electrical insulation in the field based on ultrasonic noise and artificial neural networks.Such system,proved functional under laboratory conditions,extracts spectral information from the ultrasonic noise emitted by the corona discharges in electric equipments,and correlates it with previously defined degrees of pollution.To achieve this classification,artificial neural networks are employed.The results show the viability of the method in the site;nevertheless they also show that its reliability is proportional to the size and diversity of the available database.
+SN 1003-6520
+CN 42-1239/TM
+LA 英文;
+DS CNKI

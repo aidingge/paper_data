@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 杨波;李惠光;沙晓鹏;邵暖;
+AD 燕山大学电气工程学院;
+TP 基于I&I与Hamiltonian理论的机器人速度观测器设计
+JF 自动化学报
+YR 2012
+IS 11
+OP 1757-1764
+K1 观测器;浸入与不变流形;Hamiltonian;机器人
+AB 近期,Astolfi和Stamnes等对一类机械系统设计了速度观测器.采用了分步设计Lyapunov函数的方法,这导致观测误差系统结构复杂、证明繁琐.而且设计的偏微分方程(Partial differential equation,PDE)不合理,导致计算量大、不易求解.本文在Astolfi和Stamnes等的基础上,对一类机械(机器人)系统设计了速度观测器.通过对观测误差系统的Hamiltonian实现,克服了Astolfi和Stamnes等方法中的上述缺点.并设计了一类偏微分方程,避免了繁琐计算.最后,将所设计的速度观测器应用到一类关节机器人中,仿真结果验证了设计方法的有效性.
+SN 0254-4156
+CN 11-2109/TP
+LA 中文;
+DS CNKI

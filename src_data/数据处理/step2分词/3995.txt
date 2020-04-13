@@ -1,0 +1,1 @@
+ 对比度受限 直方图均衡化 水下海参 图像增强 水下 图像 水下 光照导致 图像 对比度 现象 对比度受限 自适应 直方图均衡化 contrastlimited adaptive histogram equalization CLAHE 水下海参 图像 增强 算法 原始 图像 分割 区域 大小选取 区域 直方图 截取 像素均匀 均匀分配 分配灰度级 最终 限定 对比度 直方图 算法 参数 水下海参 图像增强 参数值 更好 增强 效果 评价 函数均方差 squared error MSE峰值 信噪比 peak signal noise rate PSNR 信息熵 information entropy CLAHE 结果显示 CLAHE 算法 水下海参 图像 提高质量 图像 细节 表现 更好 水下 机器人

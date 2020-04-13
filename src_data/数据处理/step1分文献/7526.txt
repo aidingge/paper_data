@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 第5届代理和人工智能国际会议
+JF 智能系统学报
+YR 2012
+IS 03
+OP 240
+K1 人工智能;代理;
+AB <正>The purpose of the 5th International Conference on Agents and Artificial Intelligence(ICAART)is to bring together researchers,engineers and practitioners interested in the theory and applications in these areas.Two simultaneous
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

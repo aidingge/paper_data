@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 池畔;王枭杰;
+AD 福建医科大学附属协和医院结直肠外科;
+TP 机器人和腹腔镜全直肠系膜切除术中Denonvilliers筋膜解剖的意义及技巧
+JF 中国实用外科杂志
+YR 2017
+IS 06
+OP 609-615
+K1 腹腔镜;全直肠系膜切除;Denonvilliers筋膜;血管神经束;膜解剖
+AB 直肠前间隙的分离一直是机器人和腹腔镜全直肠系膜切除(TME)的难点。基于膜解剖原理,系统地认识Denonvilliers筋膜及血管神经束(NVB)的相关解剖,有助于外科医师在保证肿瘤根治的前提下,尽量保护相关自主神经。在行TME时,应行个体化的Denonvilliers筋膜部分切除。进行直肠前方分离时,应在腹膜反折上方1 cm弧形切开膜桥,进入Denonvilliers筋膜前间隙。此后男性在距两侧精囊腺底部0.5 cm,女性距腹膜反折约5 cm,相当于两侧NVB内侧,呈倒"U"形弧形切开离断Denonvilliers筋膜前叶,进入Denonvilliers筋膜后间隙,向下继续分离。
+SN 1005-2208
+CN 21-1331/R
+LA 中文;
+DS CNKI

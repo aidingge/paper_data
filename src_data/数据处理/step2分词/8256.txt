@@ -1,0 +1,1 @@
+ 遗传算法 Skinner 操作 条件反射 学习 模型 概率自动机 probabilistic automata PA 遗传算法 genetic algorithm GA进化 思想 Skinner 操作 条件反射 operant conditioning OC 思想 学习 模型 称为 遗传算法 操作 条件反射 概率自动机 genetic algorithmoperant conditioning probabilistic automata GAOCPA 学习 每一次 学习 尝试 学习 OC 学习算法 学习 信息熵 个体 适应度 执行 遗传算法 搜索 最优 个体 执行 OC 学习算法 学习 最优 体内 最优 操作 信息熵 理论上 GAOCPA 学习 学习算法 收敛性机器人 机器人运动 平衡控制 控制仿真 GAOCPA 学习 自动获取 知识提炼 提炼高度

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 赵慧;张婷婷;
+AD 武汉科技大学机械自动化学院;
+TP 一种基于FPGA的舵机伺服系统设计
+JF 机床与液压
+YR 2010
+IS 06
+OP 59-61
+K1 机器人;FPGA;PWM
+AB 介绍一种基于FPGA(Field Programmable Gate Array)的机器人运动控制系统。介绍了控制器的结构设计、功能设计和硬件设计,并进行了仿真。该设计充分利用FPGA的快速配置能力,大大减少了系统的外围接口器件,有效地降低了成本,提高了系统的集成度和灵活性
+SN 1001-3881
+CN 44-1259/TH
+LA 中文;
+DS CNKI

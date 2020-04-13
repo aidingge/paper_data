@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 崔鸿雁;徐帅;张利锋;Roy E.Welsch;Berthold K.P.Horn;
+AD 北京邮电大学网络与交换技术国家重点实验室;北京邮电大学网络体系构建与融合北京市重点实验室;先进信息网络北京实验室;Sloan School of Management,Massachusetts Institute of Technology;Csail Laboratory,Massachusetts Institute of Technology;
+TP 机器学习中的特征选择方法研究及展望
+JF 北京邮电大学学报
+YR 2018
+IS 01
+OP 1-12
+K1 机器学习;特征选择;迁移学习;对抗神经网络;人工智能
+AB 任何领域的大数据研究都离不开用机器学习方法提取特征.为了探求满足海量大数据分析需求的特征选择方法,笔者对利用机器学习进行特征选择的常用方法做了深入分析,归纳总结出特征选择的五大类方法:相关性度量方法、Lasso稀疏选择方法、集成方法、神经网络方法、主成分分析方法.通过对比不同特征选择方法的原理、实现过程以及应用场景,给出了不同算法下进行特征选择时的适用范围、优缺点和关键点,为研究者提供参考.
+SN 1007-5321
+CN 11-3570/TN
+LA 中文;
+DS CNKI

@@ -1,0 +1,14 @@
+RT Journal Article
+SR 1
+AD 智能教育技术专业委员会第一届年会秘书处;河南师范大学计算机与信息工程学院;
+TP 智能教育技术专业委员会首届学术年会(2018)邀请函
+JF 电化教育研究
+YR 2018
+IS 09
+OP 2
+K1 研究生;学术年会;委员会;未来课堂;智能学习;
+AB <正>经中国人工智能学会(CAAI)批准,中国人工智能学会计算机辅助教育(Computer Based Education,CBE)专业委员会正式更名为智能教育技术专业委员会(Artificial Intelligence Based Educational Technology,AIBET)。新的专委会拟于2018年10月19日至21日,由北京大学、北京师范大学、华东师范大学、华南师范大学、上海交通大学、浙江工业大学、河南
+SN 1003-1553
+CN 62-1022/G4
+LA 中文;
+DS CNKI

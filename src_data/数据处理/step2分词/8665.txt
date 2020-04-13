@@ -1,0 +1,1 @@
+ 规划解中 学习 派生谓词 谓词规则 派生谓词 描述 动作效果 人类专家 派生谓词 谓词规则 理论 保证正确 完备 很难 解释 观察规划 归纳 学习 优点文中 称为 FODRL FirstOrder Derived Rules Learning 算法 完美 理论 引导 观察规划 规划解中 学习 派生谓词 谓词规则 FODRL 归纳 学习 算法 FOIL FirstOrder Inductive Learning 最主要 派生谓词 激活 搜索 学习 规则精确度 学习 分为步骤 规划解中 提取 训练 学习 拟合 训练 理论 规则 PSR PROMELA 派生 规划 大部分 情况下 FODRL FOIL 包括 变型 算法 FOCL 学习 规则精确度 

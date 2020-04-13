@@ -1,0 +1,1 @@
+ MicroBlaze 公式发现 SoPC 嵌入式 系统设计 发展趋势 FPGA SoPC 系统设计 高效性更大 更大限度 限度增加 增加灵活性 FPGA SoPC 嵌入式 经验 公式发现 发现思想 MicroBlaze 处理器配置 配置接口 接口搭建 硬件平台 移植 uClinux 嵌入式操作系统 FDD算法 FPGA 嵌入式

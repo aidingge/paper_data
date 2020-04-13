@@ -1,0 +1,1 @@
+ 扩展规则 分解 定理证明 扩展规则 定理证明 证明意义 意义归结 归结原理 原理对偶 子句 推导 极大 项来 判定 IER improved extension rule 算法完备 算法 判定 子句 集子 空间 判定 子句 算法 调用ER extension rule 算法 降低 算法 求解 效率 子句 极大空间 给出 子句 极大空间 分解 空间 求解 扩展规则 给出 极大空间 判定 PSER partial semiextension rule IER 算法 判定 空间 调用 PSER 算法 判定 空间 子句 判定 极大 项子 空间 调用ER 算法 缺点 IER 算法完备 DPSER degree partial semiextension rule 定理证明 DPSER IPSER 执行效率 归结 算法 DR IER NER

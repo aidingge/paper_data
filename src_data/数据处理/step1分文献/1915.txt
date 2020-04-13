@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 杜明;
+AD 江苏师范大学智慧教育学院;
+TP 人工智能技术在城市智能交通系统中的应用
+JF 科技促进发展
+YR 2018
+IS 07
+OP 617-622
+K1 智能交通系统;人工智能;人工神经网络;遗传算法;模糊逻辑;专家系统
+AB 目前,多类基于人工智能技术应用于交通环境的不同领域。为此,对应用于智能交通系统(Intelligent Transportation Systems,ITS)的多类人工智能(Artificial Intelligence,AI)技术进行分析。具体而言,将AI技术在智能交通系统的应用划分三个主要领域:1)车辆控制;2)交通控制和预测;3)道路安全和事故预测。同时,考虑四项AI技术:人工神经网络(Artificial Neural Networks,ANNs)、遗传算法(Genetic Algorithms,GAs)、模糊逻辑(Fuzzy Logic,FL)、专家系统(Expert Systems,ESs)。研究分析表明,不同的AI技术的结合,能够有效地管理、分析交通领域的海量数据。
+SN 1672-996X
+CN 11-5286/G3
+LA 中文;
+DS CNKI

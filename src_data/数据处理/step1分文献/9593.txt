@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 徐艳艳;岳伟亚;
+AD 中国科学院软件研究所计算机科学国家重点实验室;中国科学院研究生院信息科学工程学院;Department of Computer Science,College of Engineering,University of Cincinnati;
+TP 基于BDD的增量启发式搜索
+JF 软件学报
+YR 2009
+IS 09
+OP 2352-2365
+K1 增量搜索;启发式搜索;BDD(binary decision diagram);重规划
+AB 增量搜索是一种利用先前的搜索信息提高本次搜索效率的方法,通常可以用来解决动态环境下的重规划问题.在人工智能领域,一些实时系统常常需要根据外界环境的变化不断修正自身,这样就会产生一系列变化较小的相似问题,此时应用增量搜索将会非常有效.另外,基于BDD(binary decision diagram)的启发式搜索,结合了基于BDD的搜索和启发式搜索这两种方法的优点.它既用BDD这一紧凑的数据结构来表示系统的状态空间,又通过使用启发信息来进一步压缩搜索树的大小.在介绍基于BDD的启发式搜索和增量搜索之后,结合这两种方法给出了基于BDD的增量启发式搜索算法——BDDRPA*.大量的实验结果表明,BDDRPA*算法是非常有效的,它可以被广泛地应用到智能规划、移动机器人问题等领域中.
+SN 1000-9825
+CN 11-2560/TP
+LA 中文;
+DS CNKI

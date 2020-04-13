@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 高峰;郑波;
+AD 中国民航飞行学院;
+TP 基于IPSO算法的TSP问题求解研究
+JF 计算机科学
+YR 2014
+IS S2
+OP 69-71+82
+K1 旅行商问题;改进的粒子群优化算法;自适应更新机制;继承式判断机制
+AB 为获得旅行商问题(Traveling Salesman Problem,TSP)的最优解,提出利用改进的粒子群优化(Improved Particle Swarm Optimization,IPSO)算法中求解TSP问题。IPSO算法采用了粒子自适应更新机制和继承式判断机制,克服了传统算法易陷入局部最优位置的缺陷以及可调参数和初始位置随机设定对寻优结果不确定性的影响,确保在解空间内获得一致性的全局最优解。通过对不同样本TSP问题求解,验证了IPSO算法的有效性和稳定性。对比实验表明:IPSO算法在解决大规模寻优问题时具有突出的全局寻优能力。
+SN 1002-137X
+CN 50-1075/TP
+LA 中文;
+DS CNKI

@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 颜松远;
+AD 武汉大学计算机学院;
+TP 机器学习理论及应用
+JF 计算机工程与科学
+YR 2012
+IS 09
+OP 201
+K1 机器学习;人类;学习(人工智能);智能水平;计算机科学;
+AB <正>机器学习是计算机科学,尤其是人工智能领域里的一个极其重要的研究方向。现代计算机科学的开山鼻祖图灵(1912-1954〕几乎在创立计算机科学这个学科的同时.就创立了人工智能这个研究方向。关于机器智能,图灵有一句名言:A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.意思是说,当计算机的智能水平能达到人类的智能水平时.计算机才被认为是具有智能。显然,计算机的智能水平要到人类的智能水平,
+SN 1007-130X
+CN 43-1258/TP
+LA 中文;
+DS CNKI

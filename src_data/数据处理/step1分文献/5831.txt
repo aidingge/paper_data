@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 陈睿;黄曙光;叶春明;张亮;
+AD 解放军电子工程学院网络系;
+TP 基于二维RNN的CAPTCHA识别
+JF 小型微型计算机系统
+YR 2014
+IS 03
+OP 504-508
+K1 全自动开放式人机区分图灵测试(CAPTCHA);二维递归神经网络;人工智能;拒识策略
+AB 全自动开放式人机区分图灵测试(CAPTCHA)是基于人工智能领域开放性问题而设计的网络安全技术,CAPTCHA识别是该研究领域的重要分支.长短时记忆(Long Short Term Memory,LSTM)型递归神经网络(Recurrent Neural Network,RNN)已被成功应用于CAPTCHA识别,LSTM型RNN实质上是一维RNN,而文本型CAPTCHA为二维图像.提出使用二维RNN对CAPTCHA进行识别.二维RNN能够很好的将特征提取同识别相结合,同时具有较好的上下文保持特性,从而更适合文本型CAPTCHA识别.同时为了进一步提高识别的可靠性,提出一种基于支持向量机(Support vector machine,SVM)的拒识策略,实验结果表明二维RNN较一维RNN能够获得更好的识别率,并且新的拒识策略较其他拒识策略取得更好的拒识效果.
+SN 1000-1220
+CN 21-1106/TP
+LA 中文;
+DS CNKI

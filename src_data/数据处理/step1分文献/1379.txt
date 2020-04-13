@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 Ben Wang;
+AD Georgia Tech Manufacturing Institute,Georgia Institute of Technology;School of Industrial and Systems Engineering,Georgia Institute of Technology;School of Materials Science and Engineering,Georgia Institute of Technology;
+TP 制造业的未来——一个新视角
+JF Engineering
+YR 2018
+IS 05
+OP 301-315
+K1 先进制造伙伴计划;制造业生态系统;工业4.0;智能制造;物联网;制造业创新研究院;美国国家制造创新网络
+AB 关于智能制造,前人已发表了很多文章。其大多数内容都集中在硬件、软件、增材制造、机器人、物联网(Internet of Thing,IoT)以及工业4.0等话题,而对另一些极重要的领域却少有讨论,如混合系统、先进制造业重定义、新制造的基本构成元素、制造业生态系统准备水平及技术可扩展性等。本文将通过实例,从全新的视角,为读者剖析这些领域中目前的四个挑战。挑战一:当我们希望提高公众对新制造业经济及其社会影响的认识水平,并获得政策制定者的明确支持时,应如何重新定义未来制造业。挑战二:如何正确认识到未来制造业的关键词是"混合"。它具有人类与机器人协作、增材制造与减材制造结合、金属材料与复合材料并用以及网络系统与物理系统融合等特点。因此,划定界限与制定标准变得尤其重要。挑战三:如何开发一个同时对技术、制造商业化和新制造生态系统做出评估的通用框架,以缩短生产到交付之间的时间;以及在该框架下,如何进一步制定一套可被广泛采用的、针对非信息技术的可扩增性测量的标准。最后,也是同样重要的是挑战四:如何通过公司多方合作,来验证"产-学-政"三位一体的模型是否成功。本文将详细讨论上述四大挑战。
+SN 2095-8099
+CN 10-1244/N
+LA 中文;
+DS CNKI

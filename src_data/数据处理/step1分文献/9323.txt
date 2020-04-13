@@ -1,0 +1,14 @@
+RT Journal Article
+SR 1
+A1 昭;
+TP 《组织科学》
+JF 国外社会科学
+YR 2010
+IS 06
+OP 63
+K1 
+AB <正>《组织科学》(Organization Science)由管理科学研究所(Institute of Management Sciences)主办。内容涉及组织理论、策略管理、社会学、经济学、政治学、历史学、信息科学、系统理论、通信理论、人工智能和心理学等,多为案例分析和经验研究,重点发表在组织中的双赢、工作场地的阻力和人与人之间的信任等方面文章。
+SN 1000-4777
+CN 11-1163/C
+LA 中文;
+DS CNKI

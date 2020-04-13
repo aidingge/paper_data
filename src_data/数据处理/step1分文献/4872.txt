@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 第30届人工智能会议（英文）
+JF 智能系统学报
+YR 2015
+IS 03
+OP 361
+K1 人工智能会议;英文;USA;
+AB <正>February 12-17,2016,Phoenix,Arizona USA The Thirtieth AAAI Conference on Artificial Intelligence(AAAI-16)will be held February 12-17 at the Phoenix Convention Center,Phoenix,Arizona,USA.Please note the alternate day pattern for AAAI-16.The workshop,tutorial,and doctoral consortium programs will be held Friday and Saturday,February 12 and 13,followed by the technical program,Sunday through Wednesday(at noon),February 14-17.
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

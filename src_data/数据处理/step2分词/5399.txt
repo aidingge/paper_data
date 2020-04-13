@@ -1,0 +1,1 @@
+ 时变密度 密度函数 机器人 覆盖 控制 机器人 编队 控制 时变密度 密度函数 timevarying density functions TVDF 覆盖 控制 TVDF 机器人 所处粗略 参考 位置 数学 描述 引入连续 时间 覆盖 算法 continuoustime coverage algorithm CTCA 分布近似 distributed approximations DA邻近 机器人 位置 信息目标 区域质心 Voronoi 划分获取 局部最优 模拟 仿真 控制算法 验证 算法 优越性

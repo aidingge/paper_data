@@ -1,0 +1,1 @@
+ AMESim ADAMS 联合仿真 核磁兼容 机器人 控制系统 核磁共振 成像MRI MRI导航 手术机器人 搭建 电磁比例阀 控制系统 建立 数学模型 DH DenavitHartenberg 矩阵矢量 矢量运动学 AMESim 建立 PID 控制 控制系统 模型 ADAMS 建立 机器人 动力学 模型 发挥优势 联合仿真 搭建 手术机器人 针刺 验证 仿真 验证 理论 模型 正确性 PID

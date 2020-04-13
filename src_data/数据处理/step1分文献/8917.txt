@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 赵健;
+AD 华东师范大学学习科学研究中心;
+TP 走向学习、认知与技术研究的深度融合——《教育传播与技术研究手册(第三版)》第三部分述评
+JF 远程教育杂志
+YR 2010
+IS 03
+OP 30-36
+K1 教育传播与技术;学习;学习者
+AB 对J.Michael Spector,M.David Merrill,Jeroen Van Merrienboer and Marcy P.Driscoll主编的Handbookof Research on Educational Communications and Technology(3rd Ed.)[《教育传播与技术研究手册(第三版)》,Lawrence Erlbaum2008年出版]第三部分"技术"专题的述评,共分四个部分:第一部分是对16章内容的简要介绍,在介绍中兼顾了不同技术的发展脉络,从中探知不同技术的发展、研究状况与前景;第二部分在对比该手册第二版"技术"部分的基础上,概括了技术研究主题的延续与变化;第三部分从"硬技术"、"软技术"到"设计技术"的发展视角,评述教育技术的发展轨迹;第四部分评述了当代教育技术发展的重要特征是学习、认知和技术以学习者为中心的进一步融合。
+SN 1672-0008
+CN 33-1304/G4
+LA 中文;
+DS CNKI

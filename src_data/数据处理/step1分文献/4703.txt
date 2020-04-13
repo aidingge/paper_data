@@ -1,0 +1,15 @@
+RT Journal Article
+SR 1
+A1 崔联合;
+AD 江阴职业技术学院机电工程系;
+TP 基于CATIA V5知识工程专用夹具CAD系统
+JF 组合机床与自动化加工技术
+YR 2015
+IS 08
+OP 127-131
+K1 CATIA V5;专用夹具;CAD系统;知识工程
+AB 基于CATIA V5软件知识工程(KBE)模块,应用VB2010软件完成专用夹具CAD系统的建构。系统设计时,先规划系统结构,再进行系统功能划分和软件界面的设计;以CATIA AUTOMATION二次开发技术为基础,在知识工程(KBE)Product Knowledge Template(PKT)模块下,采用Power copy功能建立夹具零件库;最后以实例验证系统的虚拟装配结果。实践证明:采用该系统进行夹具设计,能提高夹具设计质量和效率。
+SN 1001-2265
+CN 21-1132/TG
+LA 中文;
+DS CNKI

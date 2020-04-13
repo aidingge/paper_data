@@ -1,0 +1,1 @@
+ 通讯受限 条件 机器人 主动 SLAM 机器人 通讯受限 机器人 协作定位 simultaneous localization mapping SLAM 机器人 最优控制 主动 探索 策略 创建区域 地图 周期 扩展卡尔曼 卡尔曼滤波器 extended Kalman filter EKF估计 估计维护 地图 状态 周期 结束 联络 通讯 范围内 机器人 地图 传递融合 通讯受限 地图 过度 融合 机器人 保存 周期 局部 地图 机器人 相遇 传递融合 地图 增量仿真 仿真验证

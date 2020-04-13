@@ -1,0 +1,1 @@
+ 尺度 变换算子 综述 计算机 软件硬件 计算机 视觉 算法 图像处理 热点 SIFT scale invariant feature transform 算法 机器 视觉 成功 算法 尺度 旋转光照 光照独特 独特优势 SIFT 视觉研究者 借鉴学习 SIFT 算法 仿射理想 理想复杂度 算法 SIFT 历史 SIFT 算法 演变典型 给出 综述 算法 优缺点 给出 算法 视觉研究者

@@ -1,0 +1,1 @@
+ 动态贝叶斯 贝叶斯网络 尺度 识别方法 视频 内容分析 计算机 视觉 包含尺度 尺度运动 运动细节 分层驻留 时间 状态 动态贝叶斯 贝叶斯网络 Hierarchical durationalstate dynamic Bayesiannetwork HDSDBN 含有 状态 较好 包含尺度 尺度运动 运动细节 识别 较高 识别率 噪声信息 信息缺失 缺失情况下 较好 鲁棒性 HDSDBN 模型确实 较好 表达 尺度运动 

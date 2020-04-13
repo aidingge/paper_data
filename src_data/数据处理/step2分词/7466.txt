@@ -1,0 +1,1 @@
+ 向量 学习 新颖先验 先验信息 信息缺少 分类最大化 最大化缩小 样本分布 学习 成功 关键因素 分布均值 均值最小化 学习 局限性对此 对此再生 Hilbert 空间 充分考虑 分布均值 均值最小化 结构 风险 最小化 模型 向量 学习机 Kernel support vector machine domain adaptation DAKSVM 最小范式 结果显示 优化

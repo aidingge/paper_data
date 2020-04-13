@@ -1,0 +1,13 @@
+RT Journal Article
+SR 1
+TP 2012年自动化、机电一体化和机器人国际会议(英文)
+JF 智能系统学报
+YR 2012
+IS 02
+OP 160
+K1 机器人;人工智能;机电一体化;
+AB <正>International Conference on Automation,Mechatronics and Robotics(ICAMR'2012)aimed at presenting current re-search being carried out in that area and scheduled to be held August 11-12,2012 at Phuket(Thailand).The ideaof the conference is for the scientists,scholars,engineers and students from the Universities all around the worldand the industry to present ongoing research activities,and hence t
+SN 1673-4785
+CN 23-1538/TP
+LA 英文;
+DS CNKI

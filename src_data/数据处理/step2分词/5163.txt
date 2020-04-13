@@ -1,0 +1,1 @@
+ 融合IMU RGBDSLAM 算法 Kinect 采集图像 图像稀少 稀少缺失 缺失导致 RGBDSLAM 算法 定位 构图 发生 定位 失效极大 构图 误差惯性 传感器 IMU 体感 传感器 Kinect 机器人 运动状态 定位 算法 姿态 融合IMU 测量位移 位移预估 模型 Kinect 估计观测 模型 机器人 运动 指令 运动 约束条件 扩展 卡尔曼滤波 extended Kalman filter EKF 融合 改善 机器人 定位 效果 机器人 定位精度 改善 RGBD SLAM 算法 构图

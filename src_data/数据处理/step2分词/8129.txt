@@ -1,0 +1,1 @@
+ Matlab Simulink 机器人 控制系统 仿真 atlab imu link 环境 末端 环境 接触 机器人控制 控制仿真 SFunction 模型嵌入 嵌入imu link 仿真 环境 可简化 仿真 模型 降低编程 编程难度 难度推广 控制系统 建模自由度 机器人控制 控制仿真 编写 SFunction 模块验证

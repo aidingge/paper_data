@@ -1,0 +1,1 @@
+ 中枢发生 发生机器人 行走 控制 中枢发生器 central pattern generator CPG 动物 运动控制 机理机器人 AIBO 行走 控制 Kimura 振荡神经元 CPG 控制 网络 目标 遗传算法 优化调整 CPG 网络 参数 AIBO 类似动物 行走 walk 行走 Webots 仿真实体 实体验证 CPG 控制 网络 控制

@@ -1,0 +1,1 @@
+ 分数微积分 定义 一致性 HOL 验证 分数微积分 常用 定义 GrunwaldLetnikov 定义 RiemannLiouville 定义 Caputo 定义 之间 条件相互 转换 高阶逻辑 定理 证明 HOL 实数积分 积分极限 极限超越 超越函数 定理 建立 Caputo 定义 分数微积分 形式化模型 验证 定义 GrunwaldLetnikov 定义 RiemannLiouville 定义 之间关系 常用 定义 HOL 转换 程度 定义 统一完善 高阶逻辑 

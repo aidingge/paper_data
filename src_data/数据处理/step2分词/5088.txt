@@ -1,0 +1,1 @@
+ WebRDF 框架 目的 WebRDF 转换框架 WebRDF RDF结构化 词表 转换框架 底层 结构 本体 Web 页面 元素 映射文件 RDF结构化 Virtuoso 数据库 存储 映射文件 灵活 配置 修改 程序代码 WebRDF RDF结构化 数据源之间 之间整合 RDF Named Graph 存储 推理局限 本体 结构 期刊文献 结构 尚不知识 RDF 持久化 存储 框架 Virtuoso 数据库 结论 框架 WebRDF RDF结构化 语义 网络
